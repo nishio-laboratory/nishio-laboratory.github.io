@@ -1,0 +1,15 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+title: Nishio Lab
+email: nishio@ict.e.titech.ac.jp
+description: > # this means to ignore newlines until "baseurl:"
+  東京工業大学 西尾研究室のホームページです。
+baseurl: ""
+url: ""
+
+sass:
+  sass_dir: _sass

@@ -1,0 +1,9 @@
+- name: Home
+  link: /
+- name: Research
+  link: /research
+- name: Publications
+  link: /publications
+- name: Member
+  link: /member
+

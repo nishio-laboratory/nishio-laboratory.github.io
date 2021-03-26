@@ -1,0 +1,23 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: 西尾理志（Takayuki Nishio）
+  photo: 171017_nishio.jpg
+  info: Associate Professor, Head of Research Group
+  email: nishio [at] ict.e.titech.ac.jp
+  number_educ: 0
+  education1: 
+
+- name: 飯田あづみ（Azumi Iida）
+  photo: dummy.png
+  info: Group Secretary
+  email: 
+  number_educ: 0
+  education1:

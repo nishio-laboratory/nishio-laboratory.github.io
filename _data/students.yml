@@ -1,0 +1,49 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: 板原壮平 (Sohei Itahara)
+  photo: dummy.png
+  info: Master's student
+  email: 
+  joined: Apr. 2020
+  graduated:
+
+- name: 角南智也（Tomoya Sunami）
+  photo: dummy.png
+  info: Master's student 
+  email: 
+  number_educ: 1
+  joined: Apr. 2020
+  graduated:
+
+- name: 太田翔己（Shoki Ohta）
+  photo: dummy.png
+  info: Undergraduate student 
+  email: 
+  number_educ: 1
+  joined: Oct. 2020
+  graduated:
+
+- name: 吉田祐基（Yuki Yoshida）
+  photo: dummy.png
+  info: Undergraduate student 
+  email: 
+  number_educ: 1
+  joined: Oct. 2020
+  graduated:
+
+- name: 依田光仁（Koji Yorita）
+  photo: dummy.png
+  info: Undergraduate student 
+  email: 
+  number_educ: 1
+  joined: Oct. 2020
+  graduated:
+

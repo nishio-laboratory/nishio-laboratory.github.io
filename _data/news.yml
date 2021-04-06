@@ -1,6 +1,16 @@
+# 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
+# 
+#
+- date: 2021年4月日
+  headline: 第三回大学院入試説明会(5/15 11:00~)にて、研究室の個別説明会を実施します。
+  url: http://www.ict.e.titech.ac.jp/ict_briefing/
+- date: 2021年4月1日
+  headline: 板原くんの論文がIEEE TMCに掲載されました。
+  doi: 10.1109/TMC.2021.3070013
+  #S. Itahara, T. Nishio, Y. Koda, M. Morikura and K. Yamamoto, "Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data," IEEE Transactions on Mobile Computing (Early Access), doi:10.1109/TMC.2021.3070013
 - date: 2021年4月1日
   headline: 西尾研Webサイトリニューアル
 - date: 2020年11月1日
-  headline: B3配属
+  headline: B3学生として、太田くん、吉田くん、依田くんが配属
 - date: 2020年10月1日
   headline: 西尾研設立

@@ -62,11 +62,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/member_photo/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.url %}
+  <h4 class="mt-3"><a href="{{member.url}}">{{ member.name }}</a></h4>
+  {% else %}
   <h4 class="mt-3">{{ member.name }}</h4>
-  <i>{{ member.info }} <br>
-  email: <{{ member.email }}><br>
-  Joined: {{member.joined}}
-  </i>
+  {% endif %}
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

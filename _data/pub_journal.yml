@@ -1,17 +1,379 @@
-- title: Stochastic Geometry Analysis of Wireless Backhaul Networks with Beamforming in Roadside Environments
-  authors: Y. Fu, K. Yamamoto, Y. Koda, T. Nishio, M. Morikura, C. Huang, Y. Shirato, and N. Kita
-  link:
-    url: 
-    display:  IEICE Trans. Commun., vol.E104B, no.1, pp.-, Jan. 2021.
+- authors: "S. Itahara, T. Nishio, Y. Koda, M. Morikura, and K. Yamamoto"
+  title: "Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data"
+  journal: "IEEE Transactions on Mobile Computing, vol., no., pp.-, Apr. 2021. (Early Access)"
+  year: 2021
+  url: 
+  doi: "10.1109/TMC.2021.3070013"
   image: dummy.png
-  description: 
+  description:
+  highlight: 1
+
+- authors: "Y. Fu, K. Yamamoto, Y. Koda, T. Nishio, M. Morikura, C. Huang, Y. Shirato, and N. Kita"
+  title: "Stochastic Geometry Analysis of Wireless Backhaul Networks with Beamforming in Roadside Environments"
+  journal: "IEICE Trans. Commun., vol.E104B, no.1, pp.-, Jan. 2021.(Accepted)"
+  year: 2021
+  url:
+  doi:
+  image: dummy.png
+  description:
   highlight: 0
 
-- title: Data assessment and prioritization in mobile networks for real-time prediction of spatial information using machine learning
-  authors: R. Shinkuma, T. Nishio, Y. Inagaki, and E. Oki
-  link:
-    url: 
-    display:  EURASIP J Wireless Com Network 2020, 92, May 2020.
+- authors: "R. Shinkuma, T. Nishio, Y. Inagaki, and E. Oki"
+  title: "Data assessment and prioritization in mobile networks for real-time prediction of spatial information using machine learning"
+  journal: "EURASIP J Wireless Com Network 2020, 92 (2020)."
+  year: 2020
+  url:
+  doi:
   image: dummy.png
-  description: 
+  description:
+  highlight: 0
+
+- authors: "K. Nakashima, S. Kamiya, K. Ohtsu, K. Yamamoto, T. Nishio, and M. Morikura"
+  title: "Deep Reinforcement Learning-Based Channel Allocation for Wireless LANs with Graph Convolutional Networks"
+  journal: "IEEE Access, vol.8 , pp. 31823-31834, 2020."
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "W. Deng, S. Kamiya, K. Yamamoto, T. Nishio, and M. Morikura"
+  title: "Thompson Sampling-Based Channel Selection through Density Estimation Aided by Stochastic Geometry"
+  journal: "IEEE Access, vol. 8, pp. 14841-14850, 2020."
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Y. Nakayama, T. Nishio, D. Hisano and K. Maruta"
+  title: "Small Cells Enabled by Crowdsourced Radio Units Mounted on Parked Vehicles for Smart City"
+  journal: "inIEEE Access, vol. 8, pp. 17986-17998, 2020."
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Shotaro Kamiya, Koji Yamamoto, Seong-Lyun Kim, Takayuki Nishio, and Masahiro Morikura"
+  title: "SINR Distribution and Scheduling Gain Analysis of Uplink Channel-Adaptive Scheduling"
+  journal: "IEEETransactions on Wireless Communications, 2020. (to be published)"
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Y. Koda, K. Nakashima, K. Yamamoto, T. Nishio and M. Morikura"
+  title: "Handover Management for mmWave Networks With Proactive Performance Prediction Using Camera Images and Deep Reinforcement Learning"
+  journal: "IEEETransactions on Cognitive Communications and Networking, vol. 6, no. 2, pp. 802-816, June 2020."
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "B. Yin, K. Yamamoto, T. Nishio, M. Morikura and H. Abeysekera"
+  title: "Learning-based Spatial Reuse for WLANs with Early Identification of Interfering Transmitters"
+  journal: "IEEETransactions on Cognitive Communications and Networking. doi: 10.1109/TCCN.2019.2956133"
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "M. Iwata, K. Yamamoto, B. Yin, T. Nishio, M. Morikura, and H. Abeysekera"
+  title: "Stochastic geometry analysis of individual carrier sense threshold adaptation in IEEE 802.11ax WLANs"
+  journal: "IEEE Access, vol. 7, pp. 161916-161927, Nov. 2019. http://doi.org/10.1109/ACCESS.2019.2951608"
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake"
+  title: "Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks"
+  journal: "IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019. doi: 10.1109/JSAC.2019.2933763. (preprint is available from arXiv:1803.09698)"
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "A. Taya, T. Nishio, M. Morikura, K. Yamamoto"
+  title: "Deep-Reinforcement-Learning-Based Distributed Vehicle Position Controls for Coverage Expansion in mmWave V2X"
+  journal: "IEICE Trans. Commun., Vol.E102-B,No.10,pp.2054-2065, Oct. 2019."
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "K. Yoshikawa K. Yamamoto, T. Nishio, and M. Morikura"
+  title: "Grid-based exclusive region design for 3D UAV networks: A stochastic geometry approach"
+  journal: "IEEE Access, vol.7, pp.103806-103814, July 2019. https://ieeexplore.ieee.org/document/8777137/"
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "A. Taya, T. Nishio, M. Morikura, K. Yamamoto"
+  title: "Concurrent Transmission Scheduling for Perceptual Data Sharing in mmWaveVehicular Networks"
+  journal: "IEICE Trans. Inf. & Syst., Vol.E102-D, No.5, pp.952-962, May 2019."
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Yamashita, K. Yamamoto, T. Nishio and M. Morikura"
+  title: "Exclusive Region Design for Spatial Grid-Based Spectrum Database: A Stochastic Geometry Approach"
+  journal: "IEEEAccess, vol. 6, pp. 24443-24451, May 2018. doi: 10.1109/ACCESS.2018.2832627"
+  year: 2018
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "山田仰， 西尾理志， 守倉正博, 山本高至"
+  title: "周波数共用に向けた教師あり学習による一次利用者排他領域更新方式"
+  journal: "電子情報通信学会論文誌B, Vol.J101-B,No.5,pp.372-382,May. 2018."
+  year: 2018
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "江上晃弘, 西尾理志, 守倉正博, 山本高至"
+  title: "劣モジュラ最適化を用いたミリ波無線LAN基地局のスリープ制御"
+  journal: "電子情報通信学会論文誌B, Vol.J101-B,No.5,pp.383-395,May. 2018."
+  year: 2018
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Yusuke Koda, Koji Yamamoto, Takayuki Nishio, and Masahiro Morikura"
+  title: "Measurement Method of Temporal Attenuation by Human Body in Off-the-Shelf 60 GHz WLAN with HMM-Based Transmission State Estimation"
+  journal: "Wireless Communications and Mobile Computing, vol. 2018, Article ID 7846936, 9 pages, 2018. doi:10.1155/2018/7846936."
+  year: 2018
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Y. Oguma, T. Nishio, K. Yamamoto, and M. Morikura"
+  title: "Joint Deployment of RGB-D Cameras and Base Stations for Camera-assisted mmWave Communication System"
+  journal: "IEICETrans. Fundamentals, Vol.E100-A, No.11, pp.-, Nov. 2017."
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "B. Yin, K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera"
+  title: "Mitigating Throughput Starvation in Dense WLANs through Potential Game-Based Channel Selection"
+  journal: "IEICE Trans. Fundamentals, Vol.E100-A, No.11, pp.-, Nov. 2017."
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "K. Funabiki, T. Nishio, M. Morikura, K. Yamamoto, D. Murayama, and K. Nakahira"
+  title: "ATRAS: Adaptive MAC Protocol for Efficient and Fair Coexistence between Radio over Fiber-based and CSMA/CA-based WLANs"
+  journal: "EURASIP Journal on Wireless Communications and Networking, Vol.2017, No.1, p. 129, Dec. 2017."
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Kamiya, K. Yamamoto, T. Nishio, M. Morikura, T. Sugihara"
+  title: "Spatial co-channel overlap mitigation through channel assignment in dense WLAN: Potential game approach"
+  journal: "IEICE Trans. Commun., vol. E100-B, no. 7, pp. 1094-1104, July 2017. DOI: 10.1587/transcom.2016SCP0013. paper"
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Nishio, K. Funabiki, M. Morikura, K. Yamamoto, D. Murayama, and T. Sugiyama"
+  title: "MAC protocol for improving throughput and balancing uplink/downlink throughput for wireless local area networks with long propagation delays"
+  journal: "IEICETrans. Commun., vol.E100-B, no.5, pp.874-883, May 2017. paper"
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "大戸琢也, 山本高至, 羽田勝之, 西尾理志, 守倉正博"
+  title: "セルラネットワークにおける双方向全二重とユーザ多重全二重の適応的スケジューリング"
+  journal: "映情学誌,vol.71, no.2, pp.J61-J67, Feb. 2017."
+  year: 2017
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Yamashita, K. Yamamoto, T. Nishio, and M. Morikura"
+  title: "Knowledge-based reestablishment of primary exclusive region in database-driven spectrum sharing"
+  journal: "IEICETrans. Commun., vol.E99-B, no.9, pp.2019-2027, Sept. 2016."
+  year: 2019
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Kamiya, K. Nagashima, K. Yamamoto, T. Nishio, M. Morikura, and T. Sugihara"
+  title: "Self-organization of coverage of densely deployed WLANs considering outermost APs without generating coverage holes"
+  journal: "IEICETrans. Commun., vol.E99-B, no.9, pp.1980-1988, Sept. 2016."
+  year: 2016
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Y. Oguma, T. Nishio, K. Yamamoto, and M. Morikura"
+  title: "Proactive handover based on human blockage prediction using RGB-D cameras for mmWave communications"
+  journal: "IEICETrans. Commun., vol.E99-B, no.8, pp.1734-1744, Aug. 2016."
+  year: 2016
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Yamashita, K. Sakaguchi, Y. Huang, K. Yamamoto, T. Nishio, M. Morikura, and N. Shinohara"
+  title: "Rate Adaptation Based on Exposure Assessment using Rectenna Output for WLAN Station Powered with Microwave Power Transmission"
+  journal: "IEICE Trans. Commun., vol. E98-B, no. 9, pp. 1785-1794, Sept. 2015."
+  year: 2015
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "R. Nishioka, T. Nishio, M. Morikura, and K. Yamamoto"
+  title: "A Camera and LED-based Medium Access Control scheme for Wireless LANs"
+  journal: "IEICE Trans. Commun., vol.E98-B, no.5, pp.917-926, May. 2015."
+  year: 2015
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "F. Inoue, T. Nishio, M. Morikura, K. Yamamoto, F. Nuno, and T. Sugiyama"
+  title: "Hybrid Station Aided Coexistence Scheme between Wireless PANs and Wireless LAN"
+  journal: "IEICE Trans. Fundamentals, vol.E98-A, no.2, pp.578-588, Feb. 2015."
+  year: 2015
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "N. Imoto, S. Yamashita, T. Ichihara, K. Yamamoto, T. Nishio, M. Morikura, and N. Shinohara"
+  title: "Experimental Investigation of Co-channel and Adjacent Channel Operations of Microwave Power and IEEE 802.11g Data Transmissions"
+  journal: "IEICE Trans. Commun., vol. E97-B, no. 9, pp. 1835-1842, Sep. 2014."
+  year: 2014
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "R. Arai, K. Yamamoto, T. Nishio, and M. Morikura"
+  title: "Differential Game-Theoretic Analysis on Information Availability in Decentralized Demand-Side Energy Management Systems"
+  journal: "IEICE Trans. Commun., vol. E97-B, no. 9, pp. 1817-1825, Sep. 2014."
+  year: 2014
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Yamashita, N. Imoto, T. Ichihara, K. Yamamoto, T. Nishio, M. Morikura, and N. Shinohara"
+  title: "Implementation and Feasibility Study of Co-channel Operation System of Microwave Power Transmissions to IEEE 802.11-based Battery-less Sensors"
+  journal: "IEICE Trans. Commun., vol. E97-B, no. 9, pp. 1843-1852, Sep. 2014."
+  year: 2014
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "W. Liu, T. Nishio, R. Shinkuma, and T. Takahashi"
+  title: "Adaptive resource discovery in mobile cloud computing"
+  journal: "Computer Communications, vol. 50, no. 0, pp. 119 – 129, Mar. 2014."
+  year: 2014
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "N. Maki, T. Nishio, R. Shinkuma, T. Mori, N. Kamiyama, R. Kawahara and T. Takahashi"
+  title: "Traffic Engineering of Peer-assisted Content Delivery Network with Content-oriented Incentive Mechanism"
+  journal: "IEICE Trans. Inf.& Syst., vol.E95-D, no.12, pp.2860-2869, Dec.2012."
+  year: 2012
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Nishio, R. Shinkuma, F.D. Pellegrini, H. Kasai, K. Yamaguchi, and T. Takahashi"
+  title: "Trigger detection using geographical relation graph for social context awareness"
+  journal: "ACM/Springer Mobile Networks and Applications, vol. 17, no. 6, pp. 831-840, Dec. 2012."
+  year: 2012
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Nishio, R. Shinkuma, T. Takahashi, and N. Mandayam"
+  title: "TXOP Exchange: A Mechanism for Cooperation in CSMA Networks"
+  journal: "IEICE Trans. Commun., vol.E95-B, no.6, pp.1944-1952, June 2012."
+  year: 2012
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Nishio, R. Shinkuma, T. Takahashi, and G. Hasegawa"
+  title: "TCP-based Window-size Delegation Method for TXOP Exchange in Wireless Local Area Networks"
+  journal: "EURASIP Journal on Wireless Communications and Networking, vol. 2011:58, pp.1-12, Aug. 2011."
+  year: 2011
+  url:
+  doi:
+  image: dummy.png
+  description:
   highlight: 0

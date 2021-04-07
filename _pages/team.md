@@ -1,7 +1,7 @@
 ---
 title: "Nishio Lab - Members"
 layout: gridlay
-excerpt: "Nshio Lab: Team members"
+excerpt: "Nishio Lab: Team members"
 sitemap: false
 permalink: /member/
 ---
@@ -26,7 +26,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/member_photo/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.url %}
+  <h4 class="mt-3"><a href="{{member.url}}">{{ member.name }}</h4>
+  {% else %}
   <h4 class="mt-3">{{ member.name }}</h4>
+  {% endif %}
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 </div>
 

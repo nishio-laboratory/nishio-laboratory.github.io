@@ -1,3 +1,23 @@
+- authors: "T. Shiohara, T. Nishio, T. Murase"
+  title: "Evaluating effect of interference on MAC delay in densely deployed IEEE 802.11ad based In-vehicle communications"
+  journal: "Proc. IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), June 2021."
+  year: 2021
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "R. Nino, T. Nishio, T. Murase"
+  title: "Throughput Measurement for IEEE 802.11ad with Various Obstacles and Reflectors by Real Machines"
+  journal: "Proc. IEEE Global Conference on Life Sciences and Technologies (LifeTech), Mar. 2021."
+  year: 2021
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "T. Nishio, Y. Inoue, Y. Nakayama, and M. Katsurai"
   title: "Joint Computation Offloading and Sampling Interval Optimization for Accuracy-Guaranteed Surveillance"
   journal: "Proc.IEEE CCNC, pp.1-6, Jan. 2021."
@@ -58,9 +78,9 @@
   description:
   highlight: 0
 
-- authors: "Nino, T. Nishio, T. Murase"
+- authors: "R. Nino, T. Nishio, T. Murase"
   title: "IEEE 802.11ad Communication Quality Measurement in In-Vehicle Wireless Communication with Real Machines"
-  journal: "Proc. IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), pp. 1-8, Nov. 2020."
+  journal: "Proc. IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), pp. 1-8, Oct. 2020."
   year: 2020
   url:
   doi:

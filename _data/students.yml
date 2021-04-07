@@ -16,7 +16,7 @@
   graduated:
 
 - name: 角南智也（Tomoya Sunami）
-  photo: dummy.png
+  photo: sunami.png
   info: Master's student 
   email: 
   number_educ: 1
@@ -24,7 +24,7 @@
   graduated:
 
 - name: 太田翔己（Shoki Ohta）
-  photo: dummy.png
+  photo: ohta.jpg
   info: Undergraduate student 
   email: 
   number_educ: 1
@@ -32,7 +32,7 @@
   graduated:
 
 - name: 吉田祐基（Yuki Yoshida）
-  photo: dummy.png
+  photo: yoshida.jpg
   info: Undergraduate student 
   email: 
   number_educ: 1
@@ -40,7 +40,7 @@
   graduated:
 
 - name: 依田光仁（Koji Yorita）
-  photo: dummy.png
+  photo: yorita.jpg
   info: Undergraduate student 
   email: 
   number_educ: 1

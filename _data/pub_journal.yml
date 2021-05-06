@@ -1,3 +1,24 @@
+- authors: "T. Nishio, Y. Koda, J. Park, M. Bennis, K. Doppler"
+  title: "When Wireless Communications Meet Computer Vision
+in Beyond 5G"
+  journal: "IEEE Communications Standard Magazine, vol., no., pp.-, June 2021. (Accepted)"
+  year: 2021
+  url: 
+  doi: ""
+  image: dummy.png
+  description:
+  highlight: 1
+
+- authors: "Y. Koda, M. Shinzaki, K. Yamamoto, T. Nishio, M. Morikura, Y. Shirato, D. Uchida, and N. Kita"
+  title: "Millimeter Wave Communications on Overhead Messenger Wire: Deep Reinforcement Learning-Based Predictive Beam Tracking"
+  journal: "IEEE Transactions on Cognitive Communications and Networking, vol., no., pp.-, Apr. 2021. (Early Access)"
+  year: 2021
+  url: 
+  doi: "10.1109/TCCN.2021.3074939"
+  image: dummy.png
+  description:
+  highlight: 1
+
 - authors: "S. Itahara, T. Nishio, Y. Koda, M. Morikura, and K. Yamamoto"
   title: "Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data"
   journal: "IEEE Transactions on Mobile Computing, vol., no., pp.-, Apr. 2021. (Early Access)"
@@ -50,7 +71,7 @@
 
 - authors: "Y. Nakayama, T. Nishio, D. Hisano and K. Maruta"
   title: "Small Cells Enabled by Crowdsourced Radio Units Mounted on Parked Vehicles for Smart City"
-  journal: "inIEEE Access, vol. 8, pp. 17986-17998, 2020."
+  journal: "IEEE Access, vol. 8, pp. 17986-17998, 2020."
   year: 2020
   url:
   doi:

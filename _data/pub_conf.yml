@@ -20,7 +20,7 @@
 
 - authors: "T. Nishio, Y. Inoue, Y. Nakayama, and M. Katsurai"
   title: "Joint Computation Offloading and Sampling Interval Optimization for Accuracy-Guaranteed Surveillance"
-  journal: "Proc.IEEE CCNC, pp.1-6, Jan. 2021."
+  journal: "Proc. IEEE CCNC, pp.1-6, Jan. 2021."
   year: 2021
   url:
   doi:
@@ -30,7 +30,7 @@
 
 - authors: "S. Kotera, B. Yin, K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera"
   title: "Latency-Aware Fair Scheduling for Spatial Reuse in WLANs: A Lyapunov Optimization Approach"
-  journal: "Proc.IEEE CCNC, pp.1-6, Jan. 2021."
+  journal: "Proc. IEEE CCNC, pp.1-6, Jan. 2021."
   year: 2021
   url:
   doi:
@@ -40,7 +40,7 @@
 
 - authors: "T. Nishio, R. Shinkuma, and N.B. Mandayam"
   title: "Estimation of Individual Device Contributions for Incentivizing Federated Learning"
-  journal: "Proc.IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
+  journal: "Proc. IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
   year: 2020
   url:
   doi:
@@ -71,6 +71,26 @@
 - authors: "Y. Koda, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise"
   journal: "Proc. IEEE Global Communications Conference (Globecom), pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Sunami, T. Nishio, M. Morikura, and K. Yamamoto"
+  title: "Training data generation for RSSI-based localization with camera object detection"
+  journal: "Proc. the 2020 International Conference on Emerging Technologies for Communications (ICETC), pp., Online, Dec. 2020. (Student paper award)"
+  year: 2020
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "M. Iwasaki, T. Nishio, M. Morikura, K. Yamamoto, R. Kudo, K. Takahashi, and T. Ogawa"
+  title: "Indoor experiments on transfer learning-based received power prediction"
+  journal: "Proc. the 2020 International Conference on Emerging Technologies for Communications (ICETC), pp., Online, Dec. 2020."
   year: 2020
   url:
   doi:

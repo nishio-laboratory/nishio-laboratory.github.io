@@ -1,9 +1,12 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
-- date: 2021年4月日
+- date: 2021年5月
   headline: 第三回大学院入試説明会(5/15 11:00~)にて、研究室の個別説明会を実施します。
   url: http://www.ict.e.titech.ac.jp/ict_briefing/
+- date: 2021年5月
+  headline: 業績一覧を更新しました。
+  url: https://nishio-laboratory.github.io/publications/
 - date: 2021年4月1日
   headline: 板原くんの論文がIEEE TMCに掲載されました。
   doi: 10.1109/TMC.2021.3070013

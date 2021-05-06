@@ -4,7 +4,7 @@ in Beyond 5G"
   journal: "IEEE Communications Standard Magazine, vol., no., pp.-, June 2021. (Accepted)"
   year: 2021
   url: 
-  doi: ""
+  doi: 
   image: dummy.png
   description:
   highlight: 1
@@ -81,10 +81,10 @@ in Beyond 5G"
 
 - authors: "Shotaro Kamiya, Koji Yamamoto, Seong-Lyun Kim, Takayuki Nishio, and Masahiro Morikura"
   title: "SINR Distribution and Scheduling Gain Analysis of Uplink Channel-Adaptive Scheduling"
-  journal: "IEEETransactions on Wireless Communications, 2020. (to be published)"
+  journal: "IEEE Transactions on Wireless Communications, vol. 19, no. 4, pp. 2321-2335, April 2020."
   year: 2020
   url:
-  doi:
+  doi: "10.1109/TWC.2019.2963866"
   image: dummy.png
   description:
   highlight: 0
@@ -101,30 +101,30 @@ in Beyond 5G"
 
 - authors: "B. Yin, K. Yamamoto, T. Nishio, M. Morikura and H. Abeysekera"
   title: "Learning-based Spatial Reuse for WLANs with Early Identification of Interfering Transmitters"
-  journal: "IEEETransactions on Cognitive Communications and Networking. doi: 10.1109/TCCN.2019.2956133"
+  journal: "IEEE Transactions on Cognitive Communications and Networking, Dec. 2019."
   year: 2019
   url:
-  doi:
+  doi: "10.1109/TCCN.2019.2956133"
   image: dummy.png
   description:
   highlight: 0
 
 - authors: "M. Iwata, K. Yamamoto, B. Yin, T. Nishio, M. Morikura, and H. Abeysekera"
   title: "Stochastic geometry analysis of individual carrier sense threshold adaptation in IEEE 802.11ax WLANs"
-  journal: "IEEE Access, vol. 7, pp. 161916-161927, Nov. 2019. http://doi.org/10.1109/ACCESS.2019.2951608"
+  journal: "IEEE Access, vol. 7, pp. 161916-161927, Nov. 2019."
   year: 2019
   url:
-  doi:
+  doi: "10.1109/ACCESS.2019.2951608"
   image: dummy.png
   description:
   highlight: 0
 
 - authors: "T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake"
   title: "Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks"
-  journal: "IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019. doi: 10.1109/JSAC.2019.2933763. (preprint is available from arXiv:1803.09698)"
+  journal: "IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019. (preprint is available from arXiv:1803.09698)"
   year: 2019
   url:
-  doi:
+  doi: "10.1109/JSAC.2019.2933763"
   image: dummy.png
   description:
   highlight: 0
@@ -231,7 +231,7 @@ in Beyond 5G"
 
 - authors: "S. Kamiya, K. Yamamoto, T. Nishio, M. Morikura, T. Sugihara"
   title: "Spatial co-channel overlap mitigation through channel assignment in dense WLAN: Potential game approach"
-  journal: "IEICE Trans. Commun., vol. E100-B, no. 7, pp. 1094-1104, July 2017. DOI: 10.1587/transcom.2016SCP0013. paper"
+  journal: "IEICE Trans. Commun., vol. E100-B, no. 7, pp. 1094-1104, July 2017. DOI: 10.1587/transcom.2016SCP0013."
   year: 2017
   url:
   doi:
@@ -251,7 +251,7 @@ in Beyond 5G"
 
 - authors: "大戸琢也, 山本高至, 羽田勝之, 西尾理志, 守倉正博"
   title: "セルラネットワークにおける双方向全二重とユーザ多重全二重の適応的スケジューリング"
-  journal: "映情学誌,vol.71, no.2, pp.J61-J67, Feb. 2017."
+  journal: "映情学誌, vol.71, no.2, pp.J61-J67, Feb. 2017."
   year: 2017
   url:
   doi:

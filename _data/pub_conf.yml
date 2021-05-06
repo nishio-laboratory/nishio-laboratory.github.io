@@ -120,7 +120,7 @@
 
 - authors: "S. Itahara, T. Nishio, M. Morikura, and K. Yamamoto"
   title: "Lottery Hypothesis based Unsupervised Pre-training for Model Compression in Federated Learning"
-  journal: "Proc.IEEE VTC2020-Fall, Oct. 2020."
+  journal: "Proc. IEEE VTC2020-Fall, Oct. 2020."
   year: 2020
   url:
   doi:
@@ -130,7 +130,7 @@
 
 - authors: "M. Iwasaki, T. Nishio, M. Morikura, and K. Yamamoto"
   title: "Transfer Learning-Based Received Power Prediction with Ray-tracing Simulation and Small Amount of Measurement Data"
-  journal: "Proc.IEEE VTC2020-Fall, Oct. 2020."
+  journal: "Proc. IEEE VTC2020-Fall, Oct. 2020."
   year: 2020
   url:
   doi:
@@ -140,7 +140,7 @@
 
 - authors: "Y. Kihira, Y. Koda, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Adversarial Reinforcement Learning-based Robust Access Point Coordination Against Uncoordinated Interference"
-  journal: "Proc.IEEE VTC2020-Fall, Oct. 2020."
+  journal: "Proc. IEEE VTC2020-Fall, Oct. 2020."
   year: 2020
   url:
   doi:
@@ -160,7 +160,7 @@
 
 - authors: "Y. Nakayama, Y. Hara-Azumi, A.H.N. Nguyen, D. Hisano, T. Nishio, and K. Maruta"
   title: "Real-Time Routing for Wireless Relay Fronthaul with Vehicle-Mounted Radio Units"
-  journal: "Proc.IEEE VTC2020-Spring, Online, May 2020."
+  journal: "Proc. IEEE VTC2020-Spring, Online, May 2020."
   year: 2020
   url:
   doi:
@@ -170,7 +170,7 @@
 
 - authors: "T. Sakakibara, T. Nishio, A. Taya, M. Morikura, K. Yamamoto, and T. Nabetani"
   title: "Communication-Efficient Cooperative Contextual Bandit and Its Application to Wi-Fi BSS Selection"
-  journal: "Proc.IEEE CCNC, Jan. 2020."
+  journal: "Proc. IEEE CCNC, Jan. 2020."
   year: 2020
   url:
   doi:
@@ -180,7 +180,7 @@
 
 - authors: "Y. Koda, K. Nakashima, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Cooperative Sensing in Deep RL-Based Image-to-Decision Proactive Handover for mmWave Networks"
-  journal: "Proc.IEEE CCNC, Ja. 2020."
+  journal: "Proc. IEEE CCNC, Ja. 2020."
   year: 2020
   url:
   doi:
@@ -190,7 +190,7 @@
 
 - authors: "W. Deng, S. Kamiya, K. Yamamoto, T. Nishio, M. Morikura"
   title: "Thompson Sampling-Based Heterogeneous Network Selection Considering Stochastic Geometry Analysis"
-  journal: "Proc.IEEE CCNC, Jan. 2020."
+  journal: "Proc. IEEE CCNC, Jan. 2020."
   year: 2020
   url:
   doi:
@@ -200,7 +200,7 @@
 
 - authors: "K. Ohtsu, S. Kamiya, K. Yamamoto, T. Nishio, M. Morikura, and N. Kato"
   title: "A Sequential WLAN Channel Selection Adaptive to Factors Outside the System"
-  journal: "Proc.IEEE CCNC, Jan. 2020."
+  journal: "Proc. IEEE CCNC, Jan. 2020."
   year: 2020
   url:
   doi:
@@ -210,7 +210,7 @@
 
 - authors: "M. Shinzaki, Y. Koda, K. Yamamoto, T. Nishio, M. Morikura"
   title: "Reducing Transmission Delay in EDCA Using Policy Gradient Reinforcement Learning"
-  journal: "Proc.IEEE CCNC, Jan. 2020."
+  journal: "Proc. IEEE CCNC, Jan. 2020."
   year: 2020
   url:
   doi:
@@ -230,7 +230,7 @@
 
 - authors: "Y. Nakayama, D. Hisano, T. Nishio, and K. Maruta"
   title: "Experimental Results on Crowdsourced Radio Units Mounted on Parked Vehicles"
-  journal: "Proc.IEEE VTC2018-Fall, Sept. 2019."
+  journal: "Proc. IEEE VTC2018-Fall, Sept. 2019."
   year: 2018
   url:
   doi:
@@ -240,7 +240,7 @@
 
 - authors: "H. Shimizu, B. Yin, K. Yamamoto, M. Iwata, M. Morikura, T. Nishio, and H. Abeysekera"
   title: "Joint Channel Selection and Spatial Reuse for Starvation Mitigation in IEEE 802.11ax WLANs"
-  journal: "Proc.IEEE VTC2018-Fall, Sept. 2019."
+  journal: "Proc. IEEE VTC2018-Fall, Sept. 2019."
   year: 2018
   url:
   doi:
@@ -250,7 +250,7 @@
 
 - authors: "K. Nakashima, S. Kamiya, K. Ohtsu, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Deep Reinforcement Learning-Based Channel Allocation for Wireless LANs with Graph Convolutional Networks"
-  journal: "Proc.IEEE VTC2018-Fall, Sept. 2019."
+  journal: "Proc. IEEE VTC2018-Fall, Sept. 2019."
   year: 2018
   url:
   doi:
@@ -260,7 +260,7 @@
 
 - authors: "R. Shikuma, T. Nishio"
   title: "Data Assessment and Prioritization in Mobile Networks for Real-time Prediction of Spatial Information with Machine Learning"
-  journal: "Proc.IEEE ICDCS Workshops on NMIC, July 2019."
+  journal: "Proc. IEEE ICDCS Workshops on NMIC, July 2019."
   year: 2019
   url:
   doi:
@@ -270,7 +270,7 @@
 
 - authors: "T. Nishio, R. Yonetani"
   title: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge"
-  journal: "Proc.IEEE ICC 2019, May 2019. (preprint is available from arXiv:1804.08333.)"
+  journal: "Proc. IEEE ICC 2019, May 2019. (preprint is available from arXiv:1804.08333.)"
   year: 2019
   url:
   doi:
@@ -280,7 +280,7 @@
 
 - authors: "T. Mikuma, T. Nishio, M. Morikura, K. Yamamoto, Y. Asai, and R. Miyatake"
   title: "Transfer Learning-Based Received Power Prediction Using RGB-D camera in mmWave Networks"
-  journal: "Proc.IEEE VTC Spring, May 2019."
+  journal: "Proc. IEEE VTC Spring, May 2019."
   year: 2019
   url:
   doi:
@@ -290,7 +290,7 @@
 
 - authors: "W. Deng, S. Kamiya, K. Yamamoto, T. Nishio, M. Morikura"
   title: "Replica Exchange Spatial Adaptive Play for Channel Allocation in Cognitive Radio Networks"
-  journal: "Proc.IEEE VTC Spring, May 2019."
+  journal: "Proc. IEEE VTC Spring, May 2019."
   year: 2019
   url:
   doi:
@@ -490,7 +490,7 @@
 
 - authors: "H. Okamoto, T. Nishio, M. Morikura, K. Yamamoto, D. Murayama, and K. Nakahira"
   title: "Machine-Learning-Based Throughput Estimation Using Images for mmWave Communications"
-  journal: "Proc.IEEE VTC Spring, Sydney, Australia, June 2017."
+  journal: "Proc. IEEE VTC Spring, Sydney, Australia, June 2017."
   year: 2017
   url:
   doi:
@@ -500,7 +500,7 @@
 
 - authors: "S. Yamashita, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Stochastic Geometry Analysis of Spatial Grid-based Spectrum Database"
-  journal: "Proc.IEEE VTC Spring, Sydney, Australia, June 2017."
+  journal: "Proc. IEEE VTC Spring, Sydney, Australia, June 2017."
   year: 2017
   url:
   doi:
@@ -510,7 +510,7 @@
 
 - authors: "S. Yamashita, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Optimization of Primary Exclusion Region in Spatial Grid-Based Spectrum Database Using Stochastic Geometry"
-  journal: "Proc.IEEE ICC, Paris, France, May 2017."
+  journal: "Proc. IEEE ICC, Paris, France, May 2017."
   year: 2017
   url:
   doi:
@@ -610,7 +610,7 @@
 
 - authors: "S. Yamashita, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Knowledge-based Update of Primary Exclusive Region for Database-driven Spectrum Sharing Towards 5G"
-  journal: "Proc.IEEE Wireless Communications and Networking Conference (WCNC) 2016 International Workshop on Smart Spectrum (IWSS), pp. 473-476, Doha, Qatar, April 2016."
+  journal: "Proc. IEEE Wireless Communications and Networking Conference (WCNC) 2016 International Workshop on Smart Spectrum (IWSS), pp. 473-476, Doha, Qatar, April 2016."
   year: 2016
   url:
   doi:

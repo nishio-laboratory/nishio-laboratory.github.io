@@ -94,3 +94,32 @@ This list is updated almost every month, but Google scholar one is the latest pe
   {% assign prev_year = pub.year %}
 {% endfor %}
 </ol>
+
+## Invited and tutorial talks
+<!--
+<p>
+{% for year in (2011..2021) reversed %}
+<a href="#C{{year}}">{{ year }}</a>
+{% endfor %}
+</p>
+-->
+
+{% assign prev_year = 0 %}
+<ol>
+{% for pub in site.data.pub_tutorial %}
+  {% if pub.year != prev_year %}
+  <li id="C{{ pub.year }}">
+  {% else %}
+  <li>
+  {% endif %}
+  {% if pub.url %}
+  {{ pub.authors }}, "{{ pub.title }}," <a href="{{ pub.url }}">{{ pub.journal }}</a>
+  {% elsif pub.doi %}
+  {{ pub.authors }}, "{{ pub.title }}," <a href="https://doi.org/{{ pub.doi }}">{{ pub.journal }}</a>
+  {% else %}
+  {{ pub.authors }}, "{{ pub.title }}," {{ pub.journal }}
+  {% endif %}
+  </li>
+  {% assign prev_year = pub.year %}
+{% endfor %}
+</ol>

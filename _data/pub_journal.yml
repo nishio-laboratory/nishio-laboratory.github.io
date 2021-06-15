@@ -1,6 +1,15 @@
+- authors: "K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera"
+  title: "Stochastic geometry analysis of inversely proportional carrier sense threshold and transmission power for WLAN spatial reuse"
+  journal: "IEICE Trans. Commun., vol.E104-B, no.10, pp., Oct. 2021."
+  year: 2021
+  url: 
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "T. Nishio, Y. Koda, J. Park, M. Bennis, K. Doppler"
-  title: "When Wireless Communications Meet Computer Vision
-in Beyond 5G"
+  title: "When Wireless Communications Meet Computer Vision in Beyond 5G"
   journal: "IEEE Communications Standard Magazine, vol., no., pp.-, June 2021. (Accepted)"
   year: 2021
   url: 

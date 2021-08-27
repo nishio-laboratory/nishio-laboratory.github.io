@@ -160,7 +160,8 @@ IEEE VNC 2015
 ### Reviewer  
 IEEE Trans. Mobile Comput.  
 IEEE JSAC  
-IEEE Transavtions on Wireless Communications  
+IEEE Transavtions on Wireless Communications
+IEEE Transactions on Emerging Topics in Computational Intelligence 
 IEEE Wireless Communications Letters  
 Wireless Communications and Mobile Computing  
 IEEE Globecom 2013, 2014, 2015, 2016, 2017, 2018  
@@ -174,7 +175,8 @@ APCC 2017
 ITSC 2017  
 IEEE VNC 2015  
 AINA 2015  
-IEEE SmartGridComm 2013,2014  
+IEEE SmartGridComm 2013,2014
+IEICE
   
 ### Domestic  
 電子情報通信学会 センサネットワークとモバイルインテリジェンス(SeMI)研究会専門委員（2021年度〜）  

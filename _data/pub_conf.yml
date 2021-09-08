@@ -1,3 +1,13 @@
+- authors: "S. Itahara, T. Nishio, K. Yamamoto"
+  title: "Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks"
+  journal: "Proc. IEEE Globecom, Dec. 2021."
+  year: 2021
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "T. Shiohara, T. Nishio, T. Murase"
   title: "Evaluating effect of interference on MAC delay in densely deployed IEEE 802.11ad based In-vehicle communications"
   journal: "Proc. IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), June 2021."

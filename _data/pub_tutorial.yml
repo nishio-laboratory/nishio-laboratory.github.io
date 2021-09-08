@@ -2,7 +2,16 @@
   title: "【特別招待講演】通信効率の良いFederated Learningに向けて"
   journal: "信学技報, vol. 121, no. 173, CQ2021-56, pp. 94-96, 2021年9月."
   year: 2021
-  url:
+  url: https://www.ieice.org/ken/paper/202109109Cf2/
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Takayuki Nishio and Akihiro Taya"
+  title: "【Tutorial】Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
+  journal: "APSIPA, Dec. 2021."
+  year: 2021
+  url: https://www.apsipa2021.org/tutorial.html
   image: dummy.png
   description:
   highlight: 0

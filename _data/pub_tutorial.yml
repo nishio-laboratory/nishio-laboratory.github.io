@@ -1,3 +1,12 @@
+- authors: "西尾理志"
+  title: "【特別招待講演】通信効率の良いFederated Learningに向けて"
+  journal: "信学技報, vol. 121, no. 173, CQ2021-56, pp. 94-96, 2021年9月."
+  year: 2021
+  url:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Takayuki Nishio"
   title: "【Invited Tutorial】Deep Learning for/in Wireless Networks: Fundamentals and Applications"
   journal: "IEEE ICAIIC, April 2021."
@@ -45,7 +54,7 @@
 
 - authors: "Koji Yamamoto and Takayuki Nishio"
   title: "【Tutorial】Machine Learning and Stochastic Geometry: Statistical Frameworks Against Uncertainty in Wireless LANs"
-  journal: "IEEEICC tutorials, May 2019."
+  journal: "IEEE ICC tutorials, May 2019."
   year: 2019
   url:
   image: dummy.png

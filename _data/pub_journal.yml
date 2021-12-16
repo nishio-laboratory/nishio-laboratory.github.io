@@ -1,3 +1,23 @@
+- authors: "M. Shinzaki, Y. Koda, K. Yamamoto, T. Nishio, M. Morikura, Y. Shirato, and D. Uchida"
+  title: "Lyapunov Optimization-Based Latency-Bounded Allocation Using Deep Deterministic Policy Gradient for 11ax Spatial Reuse"
+  journal: "IEEE Access, Vol. 9, pp. 162337-162347, Dec. 2021."
+  year: 2021
+  url: 
+  doi: "10.1109/ACCESS.2021.3133311"
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "M. Shinzaki, Y. Koda, K. Yamamoto, T. Nishio, M. Morikura, Y. Shirato, and D. Uchida"
+  title: "Zero-shot adaptation for mmWave beam-tracking on overhead messenger wires through robust adversarial reinforcement learning"
+  journal: "IEEE Transactions on Cognitive Communications and Networking, 2021. (Accepted)"
+  year: 2021
+  url: 
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera"
   title: "Stochastic geometry analysis of inversely proportional carrier sense threshold and transmission power for WLAN spatial reuse"
   journal: "IEICE Trans. Commun., vol.E104-B, no.10, pp., Oct. 2021."
@@ -10,10 +30,10 @@
 
 - authors: "T. Nishio, Y. Koda, J. Park, M. Bennis, K. Doppler"
   title: "When Wireless Communications Meet Computer Vision in Beyond 5G"
-  journal: "IEEE Communications Standard Magazine, vol., no., pp.-, June 2021. (Accepted)"
+  journal: "IEEE Communications Standard Magazine, vol. 5, no. 2, pp. 76-83, June 2021."
   year: 2021
   url: 
-  doi: 
+  doi: "10.1109/MCOMSTD.001.2000047"
   image: dummy.png
   description:
   highlight: 1

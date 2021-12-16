@@ -1,3 +1,23 @@
+- authors: "T. Kanda, Y. Koda, K. Yamamoto, T. Nishio"
+  title: "ACK-less rate adaptation for IEEE 802.11bc enhanced broadcast services using sim-to-real deep reinforcement learning"
+  journal: "Proc. IEEE CCNC, Jan. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "R. Hanahara, S. Itahara, K. Yamashita, Y. Koda, A. Taya, T. Nishio, K. Yamamoto"
+  title: "Frame-capture-based CSI recomposition pertaining to firmware-agnostic WiFi sensing"
+  journal: "Proc. IEEE CCNC, Jan. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Itahara, T. Nishio, K. Yamamoto"
   title: "Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks"
   journal: "Proc. IEEE Globecom, Dec. 2021."

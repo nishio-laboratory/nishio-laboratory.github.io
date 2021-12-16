@@ -23,6 +23,14 @@
   joined: Apr. 2020
   graduated:
 
+- name: 陳  誠（Chen Cheng）
+  photo: chen.jpg
+  info: Master's student 
+  email: 
+  number_educ: 1
+  joined: Sept. 2021
+  graduated:
+
 - name: 太田翔己（Shoki Ohta）
   photo: ohta.jpg
   info: Undergraduate student 
@@ -46,4 +54,6 @@
   number_educ: 1
   joined: Oct. 2020
   graduated:
+
+
 

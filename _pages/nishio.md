@@ -57,7 +57,7 @@ H18　福井県立武生高等学校卒業. ハンドボール部（右サイド
 Wireless Networks, Machine Learning, Federated Learning, Vision and Wireless, Multimodality
 
 ## Contact
-E-mail: nishio (at) i.kyoto-u.ac.jp  
+E-mail: nishio (at) ict.e.titech.ac.jp  
 twitter: @_240_
 
 
@@ -96,12 +96,14 @@ twitter: @_240_
 
 ### 分担者
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「情報鮮度AoIに関する基礎理論の確立と多様な情報通信システムへの応用」（2021-2023年度、研究分担者）
+1. 電波有効利用促進型研究開発事業 〜電波利活用強靭化に向けた周波数創造技術に関する研究開発及び人材育成プログラム〜 （2019-2022年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「確率幾何とゲーム理論の融合による時空インタラクションデザイン技術」（2018-2021年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「三次元実空間情報を利用した高信頼プロアクティブミリ波通信制御」（2017-2020年度、研究分担者）
 1. 第5世代移動通信システム実現に向けた研究開発 〜複数移動通信網の最適利用を実現する制御基盤技術に関する研究開発〜 技術課題ア-1 周波数管理・共用技術（2015-2018年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「数万端末競合環境を実現するバッテリレスM2Mネットワーク」（2013-2015年度、研究分担者）
 
-## Awards and grants obtained by students
+## Awards and grants obtained by students or co-authors
+1. IEEE LifeTech 2021 Outstanding Student Paper Awards for Oral Presentation, 仁野諒子, 2021年
 1. 電気通信普及財団テレコムシステム技術学生賞, 香田優介 2021年
 1. IEEE関西支部学生研究奨励賞, 香田優介 2021年
 1. ICETC 2020 Best Short Paper Award，角南智也，2020年

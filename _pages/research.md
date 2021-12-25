@@ -1,7 +1,7 @@
 ---
-title: "Nishio Lab - Research"
+title: "Nishio Lab - About NLab"
 layout: research
-excerpt: "Nishio Lab -- Research"
+excerpt: "Nishio Lab - About NLab"
 sitemap: false
 permalink: /about/
 ---

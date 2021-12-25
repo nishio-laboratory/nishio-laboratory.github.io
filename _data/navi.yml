@@ -1,9 +1,11 @@
 - name: Home
   link: /
-- name: Research
+- name: About NLab
   link: /research
-- name: Publications
+- name: Publication
   link: /publications
+- name: Research Project
+  link: /project
 - name: Member
   link: /member
 

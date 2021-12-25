@@ -5,7 +5,9 @@ excerpt: "Nishio Lab -- Research Project"
 permalink: /project/
 ---
 
-## JST さきがけIoT　「機械学習するIoT通信ネットワーク基盤」 // （2020年度〜2023年度） 
+---
+
+## JST さきがけIoT　「機械学習するIoT通信ネットワーク基盤」　　（2020年度〜2023年度） 
 本研究は、IoT-AIトラヒックの爆発的増加とデータプライバシの課題を解決するため、IoTデータの地産地消を実現する通信とAIデータ処理が一体化したIoT基盤構築を目指す。従来型クラウドAIを用いたIoTデータ処理ではなく、IoTデータを収集するローカルNW内で分散的にAI処理することで、コアNWのトラヒック削減とリアルタイム性向上および機密情報流出の危険性を大きく低減可能なIoT基盤を創出する。
 
 ### Distillation-Based Semi-Supervised Federated Learning (DS-FL)
@@ -19,9 +21,9 @@ Federated Learningの課題であるモデル共有時に発生する大量の�
 - S. Itahara, T. Nishio, K. Yamamoto, "Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks," Proc. IEEE Globecom, Dec. 2021.
 - Sohei Itahara, Takayuki Nishio, Yusuke Koda, Koji Yamamoto, “Communication-oriented Model Fine-tuning for Packet-loss Resilient Distributed Inference under Highly Lossy IoT Networks,” arXiv preprint arXiv:2112.09407, Dec. 2021.
 
+---
 
-
-## 科研費 若手研究 「無線通信環境をみるコンピュータビジョン技術」 // （2018年度〜2021年度） 
+## 科研費 若手研究 「無線通信環境をみるコンピュータビジョン技術」　　（2018年度〜2021年度） 
 本研究は、カメラやレーダなどの視覚（ビジョン）データから無線通信品質を予測することである。ミリ波通信や可視光通信、テラヘルツ通信など超高周波帯を用いた通信では、歩行者や車、植物などが見通し通信路を遮蔽すると信号電力が大きく低下し、通信品質を劣化させる。一方、反射物となるようなものが近傍に存在すれば、強い反射波を受信することで通信を継続することができる。このような電波伝搬空間情報はカメラやレーダなどビジョンデータに内包されており、それを読み解くことで通信品質を予測できる可能性がある。
 
 

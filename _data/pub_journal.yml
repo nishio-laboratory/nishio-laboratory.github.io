@@ -1,3 +1,13 @@
+- authors: "S. Itahara, T. Nishio, Y. Koda, and K. Yamamoto"
+  title: "Communication-oriented Model Fine-tuning for Packet-loss Resilient Distributed Inference under Highly Lossy IoT Networks"
+  journal: "IEEE Access, Feb. 2022."
+  year: 2022
+  url: 
+  doi: 
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Kotera, B. Yin, K. Yamamoto, and T. Nishio"
   title: "Lyapunov Optimization-Based Latency-Bounded Allocation Using Deep Deterministic Policy Gradient for 11ax Spatial Reuse"
   journal: "IEEE Access, Vol. 9, pp. 162337-162347, Dec. 2021."

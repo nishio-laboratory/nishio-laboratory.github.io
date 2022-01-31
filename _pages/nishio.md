@@ -103,6 +103,7 @@ twitter: @_240_
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「数万端末競合環境を実現するバッテリレスM2Mネットワーク」（2013-2015年度、研究分担者）
 
 ## Awards and grants obtained by students or co-authors
+1. 公益財団法人NEC C&C財団　2021年度Ｃ＆Ｃ若手優秀論文賞, 香田優介 2021年
 1. IEEE LifeTech 2021 Outstanding Student Paper Awards for Oral Presentation, 仁野諒子, 2021年
 1. 電気通信普及財団テレコムシステム技術学生賞, 香田優介 2021年
 1. IEEE関西支部学生研究奨励賞, 香田優介 2021年
@@ -161,7 +162,8 @@ IEEE VNC 2015
   
 ### Reviewer  
 IEEE Trans. Mobile Comput.  
-IEEE JSAC  
+IEEE Journal on Selected Areas in Communications
+IEEE Vehicular Technology Magazine
 IEEE Transavtions on Wireless Communications
 IEEE Transactions on Emerging Topics in Computational Intelligence 
 IEEE Wireless Communications Letters  

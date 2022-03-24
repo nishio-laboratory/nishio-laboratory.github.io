@@ -24,7 +24,7 @@
   graduated:
 
 - name: 陳  誠（Chen Cheng）
-  photo: chen.jpg
+  photo: dummy.png
   info: Master's student 
   email: 
   number_educ: 1
@@ -36,7 +36,7 @@
   info: Undergraduate student 
   email: 
   number_educ: 1
-  joined: Oct. 2020
+  joined: Dec. 2020
   graduated:
 
 - name: 吉田祐基（Yuki Yoshida）
@@ -44,7 +44,7 @@
   info: Undergraduate student 
   email: 
   number_educ: 1
-  joined: Oct. 2020
+  joined: Dec. 2020
   graduated:
 
 - name: 依田光仁（Koji Yorita）
@@ -52,7 +52,7 @@
   info: Undergraduate student 
   email: 
   number_educ: 1
-  joined: Oct. 2020
+  joined: Dec. 2020
   graduated:
 
 - name: 小寺奏怜 (Kanare Kodera)

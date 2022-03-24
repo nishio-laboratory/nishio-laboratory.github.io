@@ -1,3 +1,23 @@
+- authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi"
+  title: "Millimeter-wave Received Power Prediction Using Point Cloud Data and Supervised Learning"
+  journal: "Proc. IEEE VTC-Spring, Jun. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "K. Yorita, S. Itahara, T. Nishio, D. Yoda, T. Nabetani"
+  title: "MAB-based Joint Optimization of Wireless LAN and Machine Learning for Communication-efficient Distributed Inference in Lossy Networks"
+  journal: "Proc. IEEE VTC-Spring, Jun. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "T. Kanda, Y. Koda, K. Yamamoto, T. Nishio"
   title: "ACK-less rate adaptation for IEEE 802.11bc enhanced broadcast services using sim-to-real deep reinforcement learning"
   journal: "Proc. IEEE CCNC, Jan. 2022."

@@ -22,13 +22,13 @@ Takayuki Nishio
 
 ## Affiliation
 東京工業大学 工学院情報通信系 准教授  
-Associate Professor, Department of Information and Communications Engineering, School of Engineering, Tokyo Tech.  
+Associate Professor, Department of Information and Communications Engineering, School of Engineering, Tokyo Institute of Technology.  
 
 国立研究開発法人 科学技術振興機構 (JST) さきがけ 研究員（兼任）
 
-京都大学 大学院情報学研究科 非常勤研究員
+京都大学 大学院情報学研究科 非常勤研究員（兼任）
 
-KDDI研究所招聘研究員
+KDDI研究所招聘研究員（兼任）
 
 IEEE Senior Member
 
@@ -44,7 +44,7 @@ H24　京都大学 大学大学院情報学研究科 博士前期課程卒業. �
 H22　京都大学 工学部電気電子工学科卒業. 学士（工学）  
 H18　福井県立武生高等学校卒業. ハンドボール部（右サイド）  
 
-2020- Associate Professor in TiTech.  
+2020- Associate Professor in TokyoTech.  
 2016-2017 Visiting research scholar in Wireless Information Network Laboratry (WINLAB), Rutgers University, NJ, US.  
 2013-2020 Assistant Professor in Kyoto Univ.  
 2013 Ph. D (Informatics), Communications and Computer Engineering, Graduate School of Informatics, Kyoto University, Kyoto, Japan.  
@@ -81,6 +81,7 @@ twitter: @_240_
 
 ## Grants
 ### 研究代表
+1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「」(2022-2025年度)
 1. 戦略的創造研究推進事業　さきがけ:IoTが拓く未来「機械学習するIoT通信ネットワーク基盤」（2020-2023年度）
 1. 日本学術振興会　科学研究費助成事業　若手研究「無線通信環境をみるコンピュータビジョン技術」（2018-2021年度）
 1. KDDI財団 調査研究助成「ビッグデータ時代の無線通信サービス基盤」（2018-2021年度）
@@ -103,6 +104,8 @@ twitter: @_240_
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「数万端末競合環境を実現するバッテリレスM2Mネットワーク」（2013-2015年度、研究分担者）
 
 ## Awards and grants obtained by students or co-authors
+1. 電気通信普及財団テレコムシステム技術学生賞, 板原壮平 2022年
+1. IEEE関西支部学生研究奨励賞, 板原壮平 2022年 
 1. 公益財団法人NEC C&C財団　2021年度Ｃ＆Ｃ若手優秀論文賞, 香田優介 2021年
 1. IEEE LifeTech 2021 Outstanding Student Paper Awards for Oral Presentation, 仁野諒子, 2021年
 1. 電気通信普及財団テレコムシステム技術学生賞, 香田優介 2021年
@@ -135,50 +138,51 @@ twitter: @_240_
 # Aacdemic society activities
 ## International
 ### Organizing Committee
-IEEE VNC 2015 Poster/Demo Co-Chair  
-APCC 2015 Local arrangement vice co-chairs  
-IEEE ICAIIC TPC Vice chairs 2019, 2020  
+IEEE PIMRC 2022 Track co-chair
 Smartcom 2019 TPC co-chairs  
+IEEE ICAIIC TPC Vice chairs 2019, 2020  
+APCC 2015 Local arrangement vice co-chairs  
+IEEE VNC 2015 Poster/Demo Co-Chair  
 
 ### Session chairs
 APWCS 2013  
 IEEE VNC Poster session 2015  
 IEEE CCNC 2018, 2019  
-IEEE ICC 2019  
+IEEE ICC 2019
 
-### TPC member
+### TPC
+IEEE VTC 2022 workshop
 IEEE VTC 2018-Fall, 2020-Spring, 2021-Fall  
-IEEE CQR 2016, 2017, 2018  
+IEEE CQR 2016-2022
 IEEE CCNC 2017, 2018, 2019  
 IEEE COMNETSAT 2018  
 IEEE WCNC 2018 workshop on CmMmW5G  
 IEEE WCNC 2017 workshop on mmW5G  
 IEEE CCNC 2019 workshop on IWSS  
 IEEE AINA 2015  
-APCC 2017  
-IEEE ICUFN 2019  
+IEEE ICUFN 2019
+IEEE ICAIIC 2020
 IEEE Globecom 2015  
 IEEE VNC 2015  
+APCC 2017-2018  
   
 ### Reviewer  
 IEEE Trans. Mobile Comput.  
 IEEE Journal on Selected Areas in Communications
+IEEE Access
 IEEE Vehicular Technology Magazine
 IEEE Transavtions on Wireless Communications
 IEEE Transactions on Emerging Topics in Computational Intelligence 
 IEEE Wireless Communications Letters  
 Wireless Communications and Mobile Computing  
-IEEE Globecom 2013, 2014, 2015, 2016, 2017, 2018  
-IEEE ICC 2013, 2014, 2015, 2016, 2017, 2018, 2019  
+IEEE Globecom 2013-2021
+IEEE ICC 2013-2021
 IEEE WCNC 2018  
 IEEE PIMRC 2017  
 IEEE CQR 2016, 2017  
 IEEE Workshop mmW5G 2017  
 IEEE CCNC 2017  
-APCC 2017  
 ITSC 2017  
-IEEE VNC 2015  
-AINA 2015  
 IEEE SmartGridComm 2013,2014
 IEICE
   

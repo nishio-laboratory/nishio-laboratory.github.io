@@ -1,15 +1,31 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
-- date: 2021年2月22日
+- date: 2022年3月28日
+  headline: 情報通信系学位記授与式です。
+  url: 
+
+- date: 2022年3月吉日
+  headline: M2の板原くんが電気通信普及財団テレコムシステム技術学生賞を受賞しました。
+  url: https://www.taf.or.jp/award/telesys2/2021.html
+
+- date: 2022年3月17日
+  headline: B4の太田さんがIEICE総合大会で発表しました。
+  url: 
+
+- date: 2022年3月吉日
+  headline: B4の太田くんと依田くんの研究がそれぞれIEEE VTC-Springに採択されました。発表は今年の6月です。
+  url: https://events.vtsociety.org/vtc2022-spring/
+
+- date: 2022年2月22日
   headline: M2の板原くんがIEEE関西支部学生研究奨励賞を受賞しました。
   url: https://www.ieee-jp.org/section/kansai/award/student.html
 
-- date: 2021年1月31日
+- date: 2022年2月7日
   headline: M2の板原くんの論文がIEEE Accessに採録されました。
-  url: 
+  url: https://ieeexplore.ieee.org/document/9705589
   
-- date: 2021年1月20日
+- date: 2022年1月20日
   headline: M2の板原くん、角南くん、B4の吉田くん、依田くんがIEICE SeMI研究会にて発表を行いました。
   url: https://www.ieice.org/ken/program/index.php?tgs_regid=988548b4f1db04dfaa2257a1197804a820a56e01b7a38a3d3c088e4cb37896da
 
@@ -17,6 +33,9 @@
   headline: 西尾准教授と青学 田谷助教がAPSIPA ASC 2021にてチュートリアル講演を行いました。
   url: https://www.apsipa2021.org/tutorial.html
 
+- date: 2021年11月1日
+  headline: B3学生として、小寺くんと堀川くんが配属
+  
 - date: 2021年9月14, 15日
   headline: B4 太田さんと西尾准教授がIEICE ソサイエティ大会で講演しました。
   url: 

@@ -1,9 +1,19 @@
+- authors: "S. Kondo, S. Itahara, K. Yamashita, K. Yamamoto, Y. Koda, T. Nishio, and A. Taya"
+  title: "Bi-directional Beamforming Feedback-based Firmware-agnostic WiFi Sensing: An Empirical Study"
+  journal: "IEEE Access, Apr. 2022."
+  year: 2022
+  url: 
+  doi: 
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Itahara, T. Nishio, Y. Koda, and K. Yamamoto"
   title: "Communication-oriented Model Fine-tuning for Packet-loss Resilient Distributed Inference under Highly Lossy IoT Networks"
   journal: "IEEE Access, Feb. 2022."
   year: 2022
-  url: 
-  doi: 
+  url: https://ieeexplore.ieee.org/document/9705589
+  doi: 10.1109/ACCESS.2022.3149336
   image: dummy.png
   description:
   highlight: 0
@@ -410,7 +420,7 @@
 
 - authors: "T. Nishio, R. Shinkuma, F.D. Pellegrini, H. Kasai, K. Yamaguchi, and T. Takahashi"
   title: "Trigger detection using geographical relation graph for social context awareness"
-  journal: "ACM/Springer Mobile Networks and Applications, vol. 17, no. 6, pp. 831-840, Dec. 2012."
+  journal: "Mobile Networks and Applications, vol. 17, no. 6, pp. 831-840, Dec. 2012."
   year: 2012
   url:
   doi:

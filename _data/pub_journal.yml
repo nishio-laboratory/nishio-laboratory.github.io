@@ -8,6 +8,16 @@
   description:
   highlight: 0
 
+- authors: "J. Park, S. Samarakoon, H. Shiri, M. K. Abdel-Aziz, T. Nishio, A. Elgabli, and M. Bennis"
+  title: "Extreme ultra-reliable and low-latency communication"
+  journal: "Nature Electronics, Mar. 2022."
+  year: 2022
+  url: 
+  doi: 10.1038/s41928-022-00728-8
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Itahara, T. Nishio, Y. Koda, and K. Yamamoto"
   title: "Communication-oriented Model Fine-tuning for Packet-loss Resilient Distributed Inference under Highly Lossy IoT Networks"
   journal: "IEEE Access, Feb. 2022."

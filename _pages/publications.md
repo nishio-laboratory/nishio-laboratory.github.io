@@ -5,6 +5,8 @@ excerpt: "Nishio Lab -- Publications."
 permalink: /publications/
 ---
 
+{% assign current_year = 2022 %}
+
 # Publications
 <p>
 This list is updated almost every month, but Google scholar one is the latest perhaps. <a
@@ -14,7 +16,7 @@ This list is updated almost every month, but Google scholar one is the latest pe
 
 ## Journals
 <p>
-{% for year in (2011..2021) reversed %}
+{% for year in (2011..current_year) reversed %}
 <a href="#J{{year}}">{{ year }}</a>
 {% endfor %}
 </p>
@@ -42,7 +44,7 @@ This list is updated almost every month, but Google scholar one is the latest pe
 ## Letters
 
 <p>
-{% for year in (2011..2021) reversed %}
+{% for year in (2011..current_year) reversed %}
 <a href="#L{{year}}">{{ year }}</a>
 {% endfor %}
 </p>
@@ -70,7 +72,7 @@ This list is updated almost every month, but Google scholar one is the latest pe
 ## International Conferences (refereed)
 
 <p>
-{% for year in (2011..2021) reversed %}
+{% for year in (2011..current_year) reversed %}
 <a href="#C{{year}}">{{ year }}</a>
 {% endfor %}
 </p>

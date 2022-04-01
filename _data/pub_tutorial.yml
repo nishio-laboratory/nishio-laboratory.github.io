@@ -1,6 +1,15 @@
 - authors: "Takayuki Nishio and Akihiro Taya"
   title: "【Tutorial】Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
   journal: "APSIPA, Dec. 2021."
+  year: 2022
+  url: 
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Takayuki Nishio and Akihiro Taya"
+  title: "【Tutorial】Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
+  journal: "APSIPA, Dec. 2021."
   year: 2021
   url: https://www.apsipa2021.org/tutorial.html
   image: dummy.png

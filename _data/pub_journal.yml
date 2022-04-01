@@ -1,6 +1,16 @@
+- authors: "K. Yamashita, S. Kamiya, K. Yamamoto, Y. Koda, T. Nishio, and M. Morikura"
+  title: "Penalized and Decentralized Contextual Bandit Learning for WLAN Channel Allocation with Contention-Driven Feature Extraction"
+  journal: "IEICE Transactions on Communications, 2022. (Accepted)"
+  year: 2022
+  url: 
+  doi: 
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Kondo, S. Itahara, K. Yamashita, K. Yamamoto, Y. Koda, T. Nishio, and A. Taya"
   title: "Bi-directional Beamforming Feedback-based Firmware-agnostic WiFi Sensing: An Empirical Study"
-  journal: "IEEE Access, Apr. 2022."
+  journal: "IEEE Access, Apr. 2022. (Accepted)"
   year: 2022
   url: 
   doi: 

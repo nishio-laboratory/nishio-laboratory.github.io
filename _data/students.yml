@@ -8,24 +8,9 @@
 #  education3:
 #  education4:
 
-- name: 板原壮平 (Sohei Itahara)
-  photo: itahara.jpg
-  info: Master's student
-  email: 
-  joined: Apr. 2020
-  graduated:
-
-- name: 角南智也（Tomoya Sunami）
-  photo: sunami.png
-  info: Master's student 
-  email: 
-  number_educ: 1
-  joined: Apr. 2020
-  graduated:
-
 - name: 陳  誠（Chen Cheng）
-  photo: dummy.png
-  info: Master's student 
+  photo: dummy_member.png
+  info: M1 
   email: 
   number_educ: 1
   joined: Sept. 2021
@@ -33,42 +18,48 @@
 
 - name: 太田翔己（Shoki Ohta）
   photo: ohta.jpg
-  info: Undergraduate student 
+  info: M1
   email: 
   number_educ: 1
   joined: Dec. 2020
-  graduated:
-
-- name: 吉田祐基（Yuki Yoshida）
-  photo: yoshida.jpg
-  info: Undergraduate student 
-  email: 
-  number_educ: 1
-  joined: Dec. 2020
-  graduated:
+  graduated: 
 
 - name: 依田光仁（Koji Yorita）
   photo: yorita.jpg
-  info: Undergraduate student 
+  info: M1 
   email: 
   number_educ: 1
   joined: Dec. 2020
   graduated:
 
-- name: 小寺奏怜 (Kanare Kodera)
-  photo: dummy.png
-  info: Undergraduate student 
+- name: New member（近日公開）
+  photo: dummy_member.png
+  info: M1
   email: 
   number_educ: 1
+  joined: Apr. 2022
+  graduated: 
+
+- name: 小寺奏怜 (Kanare Kodera)
+  photo: dummy_member.png
+  info: B4 
+  email: 
+  number_educ: 4
   joined: Dec. 2021
   graduated:
 
 - name: 堀川裕太郎 (Yutaro Horikawa)
-  photo: dummy.png
-  info: Undergraduate student 
+  photo: dummy_member.png
+  info: B4 
   email: 
-  number_educ: 1
+  number_educ: 4
   joined: Dec. 2021
   graduated:
 
-
+- name: 片山遼 (Ryo Katayama)
+  photo: dummy_member.png
+  info: 研究生
+  email: 
+  number_educ: 
+  joined: Apr. 2022
+  graduated:

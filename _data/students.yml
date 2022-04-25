@@ -9,7 +9,7 @@
 #  education4:
 
 - name: 陳  誠（Chen Cheng）
-  photo: dummy_member.png
+  photo: chen.png
   info: M1 
   email: 
   number_educ: 1
@@ -32,7 +32,7 @@
   joined: Dec. 2020
   graduated:
 
-- name: New member（近日公開）
+- name: 前島航太（Kota Maejima）
   photo: dummy_member.png
   info: M1
   email: 
@@ -41,7 +41,7 @@
   graduated: 
 
 - name: 小寺奏怜 (Kanare Kodera)
-  photo: dummy_member.png
+  photo: kodera.png
   info: B4 
   email: 
   number_educ: 4
@@ -49,7 +49,7 @@
   graduated:
 
 - name: 堀川裕太郎 (Yutaro Horikawa)
-  photo: dummy_member.png
+  photo: horikawa.png
   info: B4 
   email: 
   number_educ: 4

@@ -9,7 +9,7 @@
 #  education4:
 
 - name: 陳  誠（Chen Cheng）
-  photo: chen.png
+  photo: chen.jpg
   info: M1 
   email: 
   number_educ: 1
@@ -41,7 +41,7 @@
   graduated: 
 
 - name: 小寺奏怜 (Kanare Kodera)
-  photo: kodera.png
+  photo: kodera.jpg
   info: B4 
   email: 
   number_educ: 4
@@ -49,7 +49,7 @@
   graduated:
 
 - name: 堀川裕太郎 (Yutaro Horikawa)
-  photo: horikawa.png
+  photo: horikawa.jpg
   info: B4 
   email: 
   number_educ: 4

@@ -1,3 +1,23 @@
+- authors: "S. Itahara, S. Kondo, K. Yamashita, T. Nishio, K. Yamamoto and Y. Koda"
+  title: "Beamforming Feedback-Based Model-Driven Angle of Departure Estimation Toward Legacy Support in WiFi Sensing: An Experimental Study"
+  journal: "IEEE Access, vol. 10, pp. 59737-59747, June 2022."
+  year: 2022
+  url: 
+  doi: 10.1109/ACCESS.2022.3180178
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "T. Kanda, Y. Koda, Y. Kihira, K. Yamamoto and T. Nishio"
+  title: "ACK-Less Rate Adaptation Using Distributional Reinforcement Learning for Reliable IEEE 802.11bc Broadcast WLANs"
+  journal: "IEEE Access, vol. 10, pp. 58858-58868, June 2022."
+  year: 2022
+  url: 
+  doi: 10.1109/ACCESS.2022.3179581
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "K. Yamashita, S. Kamiya, K. Yamamoto, Y. Koda, T. Nishio, and M. Morikura"
   title: "Penalized and Decentralized Contextual Bandit Learning for WLAN Channel Allocation with Contention-Driven Feature Extraction"
   journal: "IEICE Transactions on Communications, 2022. (Accepted)"
@@ -10,10 +30,10 @@
 
 - authors: "S. Kondo, S. Itahara, K. Yamashita, K. Yamamoto, Y. Koda, T. Nishio, and A. Taya"
   title: "Bi-directional Beamforming Feedback-based Firmware-agnostic WiFi Sensing: An Empirical Study"
-  journal: "IEEE Access, Apr. 2022. (Accepted)"
+  journal: "IEEE Access, vol. 10, pp. 36924-36934, Apr. 2022. (Accepted)"
   year: 2022
   url: 
-  doi: 
+  doi: 10.1109/ACCESS.2022.3180178
   image: dummy.png
   description:
   highlight: 0

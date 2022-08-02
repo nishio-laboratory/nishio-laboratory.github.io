@@ -1,3 +1,12 @@
+- authors: "Y. Kihira, K. Yamamoto, A. Taya, T. Nishio, Y. Koda, and K. Yano"
+  title: "Interference-free AP identification and shared information reduction for tabular Q-learning-based WLAN coordinated spatial reuse"
+  journal: "IEICE ComEX, Apr. 2022."
+  year: 2022
+  url:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Y. Koda, J. Park, M. Bennis, K. Yamamoto, T. Nishio, M. Morikura, and K. Nakashima"
   title: "Communication-efficient multimodal split learning for mmWave received power prediction"
   journal: "IEEE Communications Letters, Early Access is available which is published on Mar. 2020."

@@ -1,6 +1,24 @@
-- authors: "Takayuki Nishio and Akihiro Taya"
-  title: "【Tutorial】Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
-  journal: "APSIPA, Dec. 2021."
+- authors: "西尾理志"
+  title: "［Tutorial］連合機械学習（Federated Learning）入門"
+  journal: "IEICE Webinarテクノロジートレンドシリーズ, Sept. 2022."
+  year: 2022
+  url: https://www.ieice.org/jpn_r/activities/video_archives/webinar-trend.html
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
+  title: "［依頼講演］無線ネットワークでの連合機械学習に向けて"
+  journal: "IEICE RCS研究会, July. 2022."
+  year: 2022
+  url: https://ken.ieice.org/ken/paper/20220715PCkz/
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
+  title: "[Tutorial] Federated Learningの基礎と応用"
+  journal: "SSII, June. 2022."
   year: 2022
   url: 
   image: dummy.png
@@ -8,7 +26,7 @@
   highlight: 0
 
 - authors: "Takayuki Nishio and Akihiro Taya"
-  title: "【Tutorial】Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
+  title: "[Tutorial] Distributed Machine Learning over Networks: Basics, Applications, and Beyond of Federated Learning"
   journal: "APSIPA, Dec. 2021."
   year: 2021
   url: https://www.apsipa2021.org/tutorial.html
@@ -26,7 +44,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【特別招待講演】通信効率の良いFederated Learningに向けて"
+  title: "[特別招待講演] 通信効率の良いFederated Learningに向けて"
   journal: "信学技報, vol. 121, no. 173, CQ2021-56, pp. 94-96, 2021年9月."
   year: 2021
   url: https://www.ieice.org/ken/paper/202109109Cf2/
@@ -35,7 +53,7 @@
   highlight: 0
 
 - authors: "Takayuki Nishio"
-  title: "【Invited Tutorial】Deep Learning for/in Wireless Networks: Fundamentals and Applications"
+  title: "[Invited Tutorial] Deep Learning for/in Wireless Networks: Fundamentals and Applications"
   journal: "IEEE ICAIIC, April 2021."
   year: 2021
   url:
@@ -44,7 +62,7 @@
   highlight: 0
 
 - authors: "K. Yamamoto and T. Nishio"
-  title: "【Invited Tutorial】Machine Learning for/in Wireless Networks"
+  title: "[Invited Tutorial] Machine Learning for/in Wireless Networks"
   journal: "ITU32, Sept. 2020."
   year: 2020
   url:
@@ -53,7 +71,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【依頼チュートリアル】Sim-to-Real in Wireless: 電波伝搬シミュレータを用いた少数データからの受信電力予測モデルの学習"
+  title: "[依頼チュートリアル] Sim-to-Real in Wireless: 電波伝搬シミュレータを用いた少数データからの受信電力予測モデルの学習"
   journal: "信学ソ大, Sept. 2020."
   year: 2020
   url:
@@ -62,7 +80,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【依頼チュートリアル】無線通信分野への応用に向けた機械学習の基礎"
+  title: "[依頼チュートリアル] 無線通信分野への応用に向けた機械学習の基礎"
   journal: "信学総大, March 2020."
   year: 2020
   url:
@@ -71,7 +89,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】無線通信制御への応用に向けた深層学習の基礎と実践"
+  title: "[招待講演] 無線通信制御への応用に向けた深層学習の基礎と実践"
   journal: "IEEEAP-S Kansai Joint Chapter Tutorial, Sept. 2019."
   year: 2019
   url:
@@ -80,7 +98,7 @@
   highlight: 0
 
 - authors: "Koji Yamamoto and Takayuki Nishio"
-  title: "【Tutorial】Machine Learning and Stochastic Geometry: Statistical Frameworks Against Uncertainty in Wireless LANs"
+  title: "[Tutorial] Machine Learning and Stochastic Geometry: Statistical Frameworks Against Uncertainty in Wireless LANs"
   journal: "IEEE ICC tutorials, May 2019."
   year: 2019
   url:
@@ -89,7 +107,7 @@
   highlight: 0
 
 - authors: "西尾理志　他"
-  title: "【パネル】2030年代に目指すべき社会を実現するための次世代ワイヤレスシステム"
+  title: "[パネル] 2030年代に目指すべき社会を実現するための次世代ワイヤレスシステム"
   journal: "近畿総合通信局電波利用促進セミナー, March 2019."
   year: 2019
   url:
@@ -98,7 +116,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【チュートリアル講演】無線ネットワークでの機械学習"
+  title: "[チュートリアル講演] 無線ネットワークでの機械学習"
   journal: "電子情報通信学会通信方式研究会, April 2019."
   year: 2019
   url:
@@ -107,7 +125,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】深層学習による画像系列からのミリ波受信電力予測"
+  title: "[招待講演] 深層学習による画像系列からのミリ波受信電力予測"
   journal: "電気関係学会関西連合大会,Dec. 2018."
   year: 2018
   url:
@@ -116,7 +134,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】無線通信制御への応用に向けた機械学習の基礎と実践"
+  title: "[招待講演] 無線通信制御への応用に向けた機械学習の基礎と実践"
   journal: "IEEEAP-S Kansai Joint Chapter Tutorial, Sept. 2018."
   year: 2018
   url:
@@ -125,7 +143,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【チュートリアル講演】深層学習応用チュートリアル"
+  title: "[チュートリアル講演] 深層学習応用チュートリアル"
   journal: "電子情報通信学会モバイルネットワークとアプリケーション研究会, Aug. 2018."
   year: 2018
   url:
@@ -134,7 +152,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】無線通信制御への機械学習応用"
+  title: "[招待講演] 無線通信制御への機械学習応用"
   journal: "次世代ワイヤレス技術講座,July 2018."
   year: 2018
   url:
@@ -143,7 +161,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】機械学習による無線通信品質予測と通信制御"
+  title: "[招待講演] 機械学習による無線通信品質予測と通信制御"
   journal: "電子情報通信学会スマート無線研究会, May 2018."
   year: 2018
   url:
@@ -152,7 +170,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】無線通信制御への機械学習応用"
+  title: "[招待講演] 無線通信制御への機械学習応用"
   journal: "電子情報通信学会高信頼制御通信研究会, Jan. 2018."
   year: 2018
   url:
@@ -161,7 +179,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【招待講演】機械学習の基礎と無線通信制御への応用"
+  title: "[招待講演] 機械学習の基礎と無線通信制御への応用"
   journal: "IEEEAP-S Kansai Joint Chapter Tutorial, Sept. 2017."
   year: 2017
   url:
@@ -170,7 +188,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "【特別講演】機械学習の無線通信制御への応用"
+  title: "[特別講演] 機械学習の無線通信制御への応用"
   journal: "電子情報通信学会コミュニケーションクオリティ(CQ)研究会学生ワークショップ, Aug. 2017."
   year: 2017
   url:

@@ -1,3 +1,23 @@
+- authors: "T. Nishio, M. Nakahara, N. Okui, A. Kubota, Y. Kobayashi, K. Sugiyama, and R.  Shinkuma"
+  title: "Anomaly Traffic Detection with Federated Learning toward Network-based Malware Detection in IoT"
+  journal: "Proc. IEEE Globecom, Dec. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "A. Higuchi, E. Takeshita, D. Hisano, Y. Inoue, K. Maruta, T. Nishio, Y. Hara, and Y. Nakayama"
+  title: "Aquatic Fronthaul for Underwater-Ground Communication in 6G Mobile Communications"
+  journal: "Proc. IEEE VTC-Spring Workshop on TPoC6G, Jun. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi"
   title: "Millimeter-wave Received Power Prediction Using Point Cloud Data and Supervised Learning"
   journal: "Proc. IEEE VTC-Spring, Jun. 2022."

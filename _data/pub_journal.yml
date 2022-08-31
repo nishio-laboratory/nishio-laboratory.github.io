@@ -1,9 +1,19 @@
+- authors: "M. Nakahara, M. Nishimura, Y. Ushiku, T. Nishio, K. Maruta, Y. Nakayama, D. Hisano"
+  title: "Edge Computing-assisted DNN Image Recognition System with Progressive Image Retransmissio"
+  journal: "IEEE Access, pp., Aug. 2022."
+  year: 2022
+  url: 
+  doi: 10.1109/ACCESS.2022.3202172
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Y. Kihira, Y. Koda, K. Yamamoto, and T. Nishio"
   title: "Adversarial reinforcement learning-based coordinated robust spatial reuse in broadcast-overlaid WLANs"
   journal: "IEICE Trans. Commun., vol.E106-B, no.2, pp., Feb. 2023."
   year: 2022
   url: 
-  doi: 10.1109/ACCESS.2022.3180178
+  doi: 
   image: dummy.png
   description:
   highlight: 0

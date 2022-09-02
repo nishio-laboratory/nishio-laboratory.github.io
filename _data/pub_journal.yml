@@ -1,3 +1,13 @@
+- authors: "A. Taya, T. Nishio, M. Morikura, and K. Yamamoto"
+  title: "Decentralized and Model-Free Federated Learning: Consensus-Based Distillation in Function Space"
+  journal: "IEEE Transactions on Signal and Information Processing over Networks (Accepted)."
+  year: 2022
+  url: 
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "M. Nakahara, M. Nishimura, Y. Ushiku, T. Nishio, K. Maruta, Y. Nakayama, D. Hisano"
   title: "Edge Computing-assisted DNN Image Recognition System with Progressive Image Retransmissio"
   journal: "IEEE Access, pp., Aug. 2022."

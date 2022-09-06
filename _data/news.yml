@@ -1,6 +1,22 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2022年9月6日
+  headline: M1の太田くんがソサイエティ大会で発表しました。
+  url: 
+
+- date: 2022年9月1日
+  headline: 西尾准教授が電子情報通信学会のWebinarテクノロジートレンドシリーズで講演しました。そのうち講演動画がアップロードされるらしいです。
+  url: https://www.ieice.org/jpn_r/activities/video_archives/webinar-trend.html
+
+- date: 2022年9月吉日
+  headline: 青学 田谷先生との共同研究成果がIEEE Transactions on Signal and Information Processing over Networksに採録されました。また、阪大 久野先生との共同研究成果がIEEE Accessに掲載されました。
+  url:
+
+- date: 2022年8月吉日
+  headline: 京大 山本准教授との共同研究成果がIEICE Trans. Commun.に二件, IEEE Accessに二件に採録されました。
+  url:
+
 - date: 2022年7月15日
   headline: 2021年度修了の板原くんが2021年度 電気情報通信学会 センサネットワークとモバイルインテリジェンス研究会優秀発表賞および若手研究奨励賞を受賞しました。
   url: https://www.ieice.org/~semi/pub/ja/awards-ja.html

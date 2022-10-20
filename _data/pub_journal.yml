@@ -1,3 +1,13 @@
+- authors: "Chen Cheng, Takayuki Nishio, Mehdi Bennis, and Jihong Park"
+  title: "RF-Inpainter: Multimodal Image Inpainting with Vision and Radio Signals"
+  journal: "IEEE Access, Oct. 2022."
+  year: 2022
+  url: 
+  doi: 10.1109/ACCESS.2022.3214972
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "A. Taya, T. Nishio, M. Morikura, and K. Yamamoto"
   title: "Decentralized and Model-Free Federated Learning: Consensus-Based Distillation in Function Space"
   journal: "IEEE Transactions on Signal and Information Processing over Networks (Accepted)."

@@ -1,6 +1,10 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2022年10月20日
+  headline: M2のChengくんの論文がIEEE Accessに掲載されました。
+  url: https://ieeexplore.ieee.org/abstract/document/9919801
+
 - date: 2022年9月6日
   headline: M1の太田くんがソサイエティ大会で発表しました。
   url: 
@@ -11,7 +15,7 @@
 
 - date: 2022年9月吉日
   headline: 青学 田谷先生との共同研究成果がIEEE Transactions on Signal and Information Processing over Networksに採録されました。また、阪大 久野先生との共同研究成果がIEEE Accessに掲載されました。
-  url:
+  url: https://ieeexplore.ieee.org/abstract/document/9869327
 
 - date: 2022年8月吉日
   headline: 京大 山本准教授との共同研究成果がIEICE Trans. Commun.に二件, IEEE Accessに二件に採録されました。

@@ -1,3 +1,23 @@
+- authors: "S. Shimizu, T. Nishio, S. Saito, Y. Hirose, C.Y. Hsiu, and S. Shirakawa"
+  title: "Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach"
+  journal: "Proc. IEEE CCNC, Jan. 2023."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "S. Shimizu, T. Nishio, S. Saito, Y. Hirose, C.Y. Hsiu, and S. Shirakawa"
+  title: "Neural Architecture Search for Improving Latency-Accuracy Trade-off in Split Computing"
+  journal: "Proc. IEEE Globecom Workshop on Edge Learning over 5G Mobile Networks and Beyond, Dec. 2022."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "T. Nishio, M. Nakahara, N. Okui, A. Kubota, Y. Kobayashi, K. Sugiyama, and R.  Shinkuma"
   title: "Anomaly Traffic Detection with Federated Learning toward Network-based Malware Detection in IoT"
   journal: "Proc. IEEE Globecom, Dec. 2022."

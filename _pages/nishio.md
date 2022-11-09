@@ -104,6 +104,10 @@ twitter: @_240_
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「数万端末競合環境を実現するバッテリレスM2Mネットワーク」（2013-2015年度、研究分担者）
 
 ## Awards and grants obtained by students or co-authors
+1. 優秀構想発表賞, 陳誠 2022年
+1. IEEE VTS Japan 2022 Young Researcher's Encouragement Award，太田翔己，2022年6月20日
+1. IEEE VTS Japan 2022 Young Researcher's Encouragement Award，依田光仁，2022年6月20日
+1. 2021年度 電気情報通信学会 センサネットワークとモバイルインテリジェンス研究会 優秀発表賞, 若手研究奨励賞, 板原壮平 2022年
 1. 電気通信普及財団テレコムシステム技術学生賞, 板原壮平 2022年
 1. IEEE関西支部学生研究奨励賞, 板原壮平 2022年 
 1. 公益財団法人NEC C&C財団　2021年度Ｃ＆Ｃ若手優秀論文賞, 香田優介 2021年

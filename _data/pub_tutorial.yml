@@ -1,4 +1,40 @@
 - authors: "西尾理志"
+  title: "［依頼講演］連合機械学習による非集中型機械学習"
+  journal: "信学総合大会, IN研企画セッション, Mar. 2023."
+  year: 2022
+  url: https://www.ieice-taikai.jp/2023general/jpn/schedule-s.html
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
+  title: "［依頼講演］Split Computing: 通信を介した分散ニューラルネットワーク推論"
+  journal: "信学総合大会, RCS研企画セッション, Mar. 2023."
+  year: 2022
+  url: https://www.ieice-taikai.jp/2023general/jpn/schedule-s.html
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
+  title: "［依頼講演］Federated Learningの基礎とさらなる分散化に向けた研究動向"
+  journal: "信学総合大会, SIP研企画セッション, Mar. 2023."
+  year: 2022
+  url: https://www.ieice-taikai.jp/2023general/jpn/schedule-s.html
+  image: dummy.png
+  description:
+  highlight: 0
+
+%- authors: "西尾理志"
+%  title: "［依頼講演］無線ネットワーク指向の分散的機械学習技術"
+%  journal: "次世代ワイヤレス技術講座, Jan. 2023."
+%  year: 2022
+%  url: https://www.kec.jp/seminar/jisedai22/
+%  image: dummy.png
+%  description:
+%  highlight: 0
+
+- authors: "西尾理志"
   title: "［Tutorial］連合機械学習（Federated Learning）入門"
   journal: "IEICE Webinarテクノロジートレンドシリーズ, Sept. 2022."
   year: 2022
@@ -151,14 +187,14 @@
   description:
   highlight: 0
 
-- authors: "西尾理志"
-  title: "[招待講演] 無線通信制御への機械学習応用"
-  journal: "次世代ワイヤレス技術講座,July 2018."
-  year: 2018
-  url:
-  image: dummy.png
-  description:
-  highlight: 0
+%- authors: "西尾理志"
+%  title: "[招待講演] 無線通信制御への機械学習応用"
+%  journal: "次世代ワイヤレス技術講座, July 2018."
+%  year: 2018
+%  url:
+%  image: dummy.png
+%  description:
+%  highlight: 0
 
 - authors: "西尾理志"
   title: "[招待講演] 機械学習による無線通信品質予測と通信制御"

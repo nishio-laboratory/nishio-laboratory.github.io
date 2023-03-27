@@ -64,6 +64,7 @@ twitter: @_240_
 
 # Awards and Grants
 ## Awards
+1. 2022年度 電子情報通信学会　末松安晴賞
 1. 第35回 電気通信普及財団賞テレコムシステム技術賞
     T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake, “Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019.
 1. 2019年度 IEEE関西支部 Young Professionals賞
@@ -103,7 +104,17 @@ twitter: @_240_
 1. 第5世代移動通信システム実現に向けた研究開発 〜複数移動通信網の最適利用を実現する制御基盤技術に関する研究開発〜 技術課題ア-1 周波数管理・共用技術（2015-2018年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「数万端末競合環境を実現するバッテリレスM2Mネットワーク」（2013-2015年度、研究分担者）
 
+### 産学連携・企業共同研究
+- NTT研究所 (2020年度~)
+- 東芝 (2020年度~)
+- KDDI総合研究所 (2021年度~)
+
 ## Awards and grants obtained by students or co-authors
+1. 情報通信系優秀学生賞, 陳誠 2023年
+1. 情報通信系優秀学生賞, 堀川裕太郎 2023年
+1. 優秀構想発表賞, 太田翔己 2022年
+1. 優秀構想発表賞, 依田光仁 2022年
+1. 情報通信系優秀学生賞, 太田翔己 2023年
 1. 優秀構想発表賞, 陳誠 2022年
 1. IEEE VTS Japan 2022 Young Researcher's Encouragement Award，太田翔己，2022年6月20日
 1. IEEE VTS Japan 2022 Young Researcher's Encouragement Award，依田光仁，2022年6月20日

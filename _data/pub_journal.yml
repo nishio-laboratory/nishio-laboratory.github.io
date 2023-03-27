@@ -1,6 +1,26 @@
+- authors: "Y. Kihira, Y. Koda, K. Yamamoto, and T. Nishio"
+  title: "Adversarial reinforcement learning-based coordinated robust spatial reuse in broadcast-overlaid WLANs"
+  journal: "IEICE Trans. Commun., vol.E106-B, no.2, pp.203-212, Feb. 2023."
+  year: 2022
+  url: 
+  doi: 10.1587/transcom.2022EBP3026
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "A. Taya, T. Nishio, M. Morikura, and K. Yamamoto"
+  title: "Decentralized and Model-Free Federated Learning: Consensus-Based Distillation in Function Space"
+  journal: "IEEE Transactions on Signal and Information Processing over Networks, vol. 8, pp. 799-814, Feb. 2023."
+  year: 2022
+  url: 
+  doi: 10.1109/TSIPN.2022.3205549
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Chen Cheng, Takayuki Nishio, Mehdi Bennis, and Jihong Park"
   title: "RF-Inpainter: Multimodal Image Inpainting with Vision and Radio Signals"
-  journal: "IEEE Access, Oct. 2022."
+  journal: "IEEE Access, pp. 110689-110700, Oct. 2022."
   year: 2022
   url: 
   doi: 10.1109/ACCESS.2022.3214972
@@ -8,32 +28,22 @@
   description:
   highlight: 0
 
-- authors: "A. Taya, T. Nishio, M. Morikura, and K. Yamamoto"
-  title: "Decentralized and Model-Free Federated Learning: Consensus-Based Distillation in Function Space"
-  journal: "IEEE Transactions on Signal and Information Processing over Networks (Accepted)."
+- authors: "K. Yamashita, S. Kamiya, K. Yamamoto, Y. Koda, T. Nishio, and M. Morikura"
+  title: "Penalized and Decentralized Contextual Bandit Learning for WLAN Channel Allocation with Contention-Driven Feature Extraction"
+  journal: "IEICE Transactions on Communications, Vol.E105-B, No.10, pp.1268-1279, Oct. 2022."
   year: 2022
   url: 
-  doi:
+  doi: 10.1587/transcom.2021EBP3197
   image: dummy.png
   description:
   highlight: 0
 
 - authors: "M. Nakahara, M. Nishimura, Y. Ushiku, T. Nishio, K. Maruta, Y. Nakayama, D. Hisano"
   title: "Edge Computing-assisted DNN Image Recognition System with Progressive Image Retransmissio"
-  journal: "IEEE Access, pp., Aug. 2022."
+  journal: "IEEE Access, pp. 91253-91262, Aug. 2022."
   year: 2022
   url: 
   doi: 10.1109/ACCESS.2022.3202172
-  image: dummy.png
-  description:
-  highlight: 0
-
-- authors: "Y. Kihira, Y. Koda, K. Yamamoto, and T. Nishio"
-  title: "Adversarial reinforcement learning-based coordinated robust spatial reuse in broadcast-overlaid WLANs"
-  journal: "IEICE Trans. Commun., vol.E106-B, no.2, pp., Feb. 2023."
-  year: 2022
-  url: 
-  doi: 
   image: dummy.png
   description:
   highlight: 0
@@ -54,16 +64,6 @@
   year: 2022
   url: 
   doi: 10.1109/ACCESS.2022.3179581
-  image: dummy.png
-  description:
-  highlight: 0
-
-- authors: "K. Yamashita, S. Kamiya, K. Yamamoto, Y. Koda, T. Nishio, and M. Morikura"
-  title: "Penalized and Decentralized Contextual Bandit Learning for WLAN Channel Allocation with Contention-Driven Feature Extraction"
-  journal: "IEICE Transactions on Communications, 2022. (Accepted)"
-  year: 2022
-  url: 
-  doi: 
   image: dummy.png
   description:
   highlight: 0

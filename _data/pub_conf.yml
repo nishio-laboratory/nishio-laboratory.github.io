@@ -8,6 +8,16 @@
   description:
   highlight: 0
 
+- authors: "R. Sugano, R. Shinkuma, T. Nishio, and N.B. Mandayam"
+  title: "Watch from sky: machine-learning-based multi-UAV network for predictive police surveillance"
+  journal: "Proc. IEEE CCNC, Jan. 2023."
+  year: 2022
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Shimizu, T. Nishio, S. Saito, Y. Hirose, C.Y. Hsiu, and S. Shirakawa"
   title: "Neural Architecture Search for Improving Latency-Accuracy Trade-off in Split Computing"
   journal: "Proc. IEEE Globecom Workshop on Edge Learning over 5G Mobile Networks and Beyond, Dec. 2022."

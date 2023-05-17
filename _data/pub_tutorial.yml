@@ -1,4 +1,13 @@
 - authors: "西尾理志"
+  title: "［招待講演］Model-Free Federated Learningに向けた知識蒸留の応用"
+  journal: "信学技報, vol. 123, no. 19, SR2023-21, pp. 92-92, 2023年5月."
+  year: 2023
+  url: https://ken.ieice.org/ken/paper/20230512JCtn/
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
   title: "［依頼講演］連合機械学習による非集中型機械学習"
   journal: "信学総合大会, IN研企画セッション, Mar. 2023."
   year: 2022

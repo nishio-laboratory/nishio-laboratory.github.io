@@ -1,3 +1,13 @@
+- authors: "Yoshida, N., Nishio, T., Yamamoto, K., Morikura, M."
+  title: "Federated Learning with Client Selection in Resource-Uncertain Wireless Networks: Simulation and Proof of Concept Experiments"
+  journal: "Advances in Engineering and Information Science Toward Smart City and Beyond. Engineering Cyber-Physical Systems and Critical Infrastructures, vol 5. Springer, Cham, May 2023."
+  year: 2023
+  url: 
+  doi: 10.1007/978-3-031-29301-6_11
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Y. Kihira, Y. Koda, K. Yamamoto, and T. Nishio"
   title: "Adversarial reinforcement learning-based coordinated robust spatial reuse in broadcast-overlaid WLANs"
   journal: "IEICE Trans. Commun., vol.E106-B, no.2, pp.203-212, Feb. 2023."

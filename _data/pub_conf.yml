@@ -13,7 +13,7 @@
   journal: "Proc. IEEE CCNC, Jan. 2023."
   year: 2022
   url:
-  doi:
+  doi: 10.1109/CCNC51644.2023.10060624
   image: dummy.png
   description:
   highlight: 0
@@ -23,7 +23,7 @@
   journal: "Proc. IEEE Globecom Workshop on Edge Learning over 5G Mobile Networks and Beyond, Dec. 2022."
   year: 2022
   url:
-  doi:
+  doi: 10.1109/GCWkshps56602.2022.10008544
   image: dummy.png
   description:
   highlight: 0
@@ -33,7 +33,7 @@
   journal: "Proc. IEEE Globecom, Dec. 2022."
   year: 2022
   url:
-  doi:
+  doi: 10.1109/GLOBECOM48099.2022.10000633
   image: dummy.png
   description:
   highlight: 0

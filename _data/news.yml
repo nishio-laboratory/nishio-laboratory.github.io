@@ -1,6 +1,25 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2023年10月5日
+  headline: しばらく更新をサボっていました。すみません。
+  url: 
+
+- date: 2023年9月吉日
+  headline: M2の太田さんの論文がIEEE Transactions on Machine Learning in Communications and Networkingに掲載されました。おめでとうございます！Open Access論文なので是非読んでみてください。
+  url: https://ieeexplore.ieee.org/document/10262333
+
+- date: 2023年9月6日
+  headline: 原研M1の山崎さんが共同研究成果をEuromicro Conference Series on Software Engineering and Advanced Applications (SEAA)で発表しました。
+  url: https://dsd-seaa2023.com/program/
+
+- date: 2023年7月13日
+  headline: M2の依田さんがSeMI研究会 優秀発表賞を受賞しました。おめでとうございます！
+  url: https://www.ieice.org/~semi/pub/ja/awards-ja.html
+
+- date: 2023年7月12-14日
+  headline: B4の茅野さんが大阪で開催されたSeMI研究会で発表しました。
+  url: https://ken.ieice.org/ken/program/index.php?mode=program&tgs_regid=3c5b6b3825135adcbe1a9b027301fecd0df7f2f2e98a48d8bf3f31533b0c2ba0&tgid=SeMI&layout=&lang=
 
 - date: 2023年5月18, 19日
   headline: D1の陳さん、M2の太田さん、依田さん、前島さんが沖縄で開催されたSeMI研究会で発表しました。

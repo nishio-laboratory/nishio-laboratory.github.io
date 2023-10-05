@@ -1,6 +1,6 @@
 - authors: "西尾理志"
   title: "［招待講演］Model-Free Federated Learningに向けた知識蒸留の応用"
-  journal: "信学技報, vol. 123, no. 19, SR2023-21, pp. 92-92, 2023年5月."
+  journal: "信学技報, vol. 123, no. 19, SR2023-21, pp. 92-92, May 2023."
   year: 2023
   url: https://ken.ieice.org/ken/paper/20230512JCtn/
   image: dummy.png
@@ -81,16 +81,16 @@
 
 - authors: "西尾理志"
   title: "分散協調機械学習 (Federated Learning) チュートリアル"
-  journal: "信学ソサイエティ大会, 2021年9月. (オーガナイザ兼講演者）"
+  journal: "信学ソサイエティ大会, Sep. 2021. "
   year: 2021
   url: 
   image: dummy.png
-  description:
+  description: オーガナイザ兼講演者
   highlight: 0
 
 - authors: "西尾理志"
   title: "[特別招待講演] 通信効率の良いFederated Learningに向けて"
-  journal: "信学技報, vol. 121, no. 173, CQ2021-56, pp. 94-96, 2021年9月."
+  journal: "信学技報, vol. 121, no. 173, CQ2021-56, pp. 94-96, Sep. 2021."
   year: 2021
   url: https://www.ieice.org/ken/paper/202109109Cf2/
   image: dummy.png
@@ -126,7 +126,7 @@
 
 - authors: "西尾理志"
   title: "[依頼チュートリアル] 無線通信分野への応用に向けた機械学習の基礎"
-  journal: "信学総大, March 2020."
+  journal: "信学総大, Mar. 2020."
   year: 2020
   url:
   image: dummy.png
@@ -135,7 +135,7 @@
 
 - authors: "西尾理志"
   title: "[招待講演] 無線通信制御への応用に向けた深層学習の基礎と実践"
-  journal: "IEEEAP-S Kansai Joint Chapter Tutorial, Sept. 2019."
+  journal: "IEEEAP-S Kansai Joint Chapter Tutorial, Sep. 2019."
   year: 2019
   url:
   image: dummy.png
@@ -171,7 +171,7 @@
 
 - authors: "西尾理志"
   title: "[招待講演] 深層学習による画像系列からのミリ波受信電力予測"
-  journal: "電気関係学会関西連合大会,Dec. 2018."
+  journal: "電気関係学会関西連合大会, Dec. 2018."
   year: 2018
   url:
   image: dummy.png

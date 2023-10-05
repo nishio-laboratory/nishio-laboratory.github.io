@@ -1,3 +1,13 @@
+- authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
+  title: "Point Cloud-Based Proactive Link Quality Prediction for Millimeter-Wave Communications"
+  journal: "IEEE Transactions on Machine Learning in Communications and Networking, vol. 1, pp. 258-276, Sept. 2023."
+  year: 2023
+  url: 
+  doi: 10.1109/TMLCN.2023.3319286
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Yoshida, N., Nishio, T., Yamamoto, K., Morikura, M."
   title: "Federated Learning with Client Selection in Resource-Uncertain Wireless Networks: Simulation and Proof of Concept Experiments"
   journal: "Advances in Engineering and Information Science Toward Smart City and Beyond. Engineering Cyber-Physical Systems and Critical Infrastructures, vol 5. Springer, Cham, May 2023."
@@ -80,7 +90,7 @@
 
 - authors: "S. Kondo, S. Itahara, K. Yamashita, K. Yamamoto, Y. Koda, T. Nishio, and A. Taya"
   title: "Bi-directional Beamforming Feedback-based Firmware-agnostic WiFi Sensing: An Empirical Study"
-  journal: "IEEE Access, vol. 10, pp. 36924-36934, Apr. 2022. (Accepted)"
+  journal: "IEEE Access, vol. 10, pp. 36924-36934, Apr. 2022."
   year: 2022
   url: 
   doi: 10.1109/ACCESS.2022.3180178
@@ -120,7 +130,7 @@
 
 - authors: "M. Shinzaki, Y. Koda, K. Yamamoto, T. Nishio, M. Morikura, Y. Shirato, and D. Uchida"
   title: "Zero-shot adaptation for mmWave beam-tracking on overhead messenger wires through robust adversarial reinforcement learning"
-  journal: "IEEE Transactions on Cognitive Communications and Networking, 2021. (Accepted)"
+  journal: "IEEE Transactions on Cognitive Communications and Networking, Dec. 2021."
   year: 2021
   url: 
   doi:
@@ -150,7 +160,7 @@
 
 - authors: "Y. Koda, M. Shinzaki, K. Yamamoto, T. Nishio, M. Morikura, Y. Shirato, D. Uchida, and N. Kita"
   title: "Millimeter Wave Communications on Overhead Messenger Wire: Deep Reinforcement Learning-Based Predictive Beam Tracking"
-  journal: "IEEE Transactions on Cognitive Communications and Networking, vol., no., pp.-, Apr. 2021. (Early Access)"
+  journal: "IEEE Transactions on Cognitive Communications and Networking, vol., no., pp.-, Apr. 2021."
   year: 2021
   url: 
   doi: "10.1109/TCCN.2021.3074939"
@@ -160,17 +170,17 @@
 
 - authors: "S. Itahara, T. Nishio, Y. Koda, M. Morikura, and K. Yamamoto"
   title: "Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data"
-  journal: "IEEE Transactions on Mobile Computing, vol., no., pp.-, Apr. 2021. (Early Access)"
+  journal: "IEEE Transactions on Mobile Computing, vol. 22, no. 1, pp. 191-205, Jan. 2023."
   year: 2021
   url: 
   doi: "10.1109/TMC.2021.3070013"
   image: dummy.png
-  description:
+  description: Apr. 2021 by Early Access
   highlight: 1
 
 - authors: "Y. Fu, K. Yamamoto, Y. Koda, T. Nishio, M. Morikura, C. Huang, Y. Shirato, and N. Kita"
   title: "Stochastic Geometry Analysis of Wireless Backhaul Networks with Beamforming in Roadside Environments"
-  journal: "IEICE Trans. Commun., vol.E104B, no.1, pp.-, Jan. 2021.(Accepted)"
+  journal: "IEICE Trans. Commun., vol.E104B, no.1, pp.-, Jan. 2021."
   year: 2021
   url:
   doi:
@@ -180,7 +190,7 @@
 
 - authors: "R. Shinkuma, T. Nishio, Y. Inagaki, and E. Oki"
   title: "Data assessment and prioritization in mobile networks for real-time prediction of spatial information using machine learning"
-  journal: "EURASIP J Wireless Com Network 2020, 92 (May 2020)."
+  journal: "EURASIP J Wireless Com Network 2020, 92, May 2020."
   year: 2020
   url:
   doi:
@@ -310,7 +320,7 @@
 
 - authors: "山田仰， 西尾理志， 守倉正博, 山本高至"
   title: "周波数共用に向けた教師あり学習による一次利用者排他領域更新方式"
-  journal: "電子情報通信学会論文誌B, Vol.J101-B,No.5,pp.372-382,May. 2018."
+  journal: "電子情報通信学会論文誌B, Vol.J101-B, No.5, pp.372-382, May. 2018."
   year: 2018
   url:
   doi:
@@ -320,7 +330,7 @@
 
 - authors: "江上晃弘, 西尾理志, 守倉正博, 山本高至"
   title: "劣モジュラ最適化を用いたミリ波無線LAN基地局のスリープ制御"
-  journal: "電子情報通信学会論文誌B, Vol.J101-B,No.5,pp.383-395,May. 2018."
+  journal: "電子情報通信学会論文誌B, Vol.J101-B, No.5, pp.383-395, May. 2018."
   year: 2018
   url:
   doi:
@@ -330,10 +340,10 @@
 
 - authors: "Yusuke Koda, Koji Yamamoto, Takayuki Nishio, and Masahiro Morikura"
   title: "Measurement Method of Temporal Attenuation by Human Body in Off-the-Shelf 60 GHz WLAN with HMM-Based Transmission State Estimation"
-  journal: "Wireless Communications and Mobile Computing, vol. 2018, Article ID 7846936, 9 pages, 2018. doi:10.1155/2018/7846936."
+  journal: "Wireless Communications and Mobile Computing, vol. 2018, Article ID 7846936, 9 pages, Apr. 2018. doi:10.1155/2018/7846936."
   year: 2018
   url:
-  doi:
+  doi: doi:10.1155/2018/7846936
   image: dummy.png
   description:
   highlight: 0

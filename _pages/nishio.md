@@ -64,21 +64,23 @@ twitter: @_240_
 
 # Awards and Grants
 ## Awards
+1. 電子情報通信学会通信ソサイエティ 活動功労賞 2015年度, 2018年度, 2021年度, 2023年度
 1. 2022年度 電子情報通信学会　末松安晴賞
+1. IEICE Communication Society Best Paper Award
+「K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera, "Stochastic geometry analysis of inversely proportional carrier sense threshold and transmission power for WLAN spatial reuse," IEICE Trans. Commun., vol.E104-B, no.10, pp. 1345-1353, Oct. 2021.
 1. 第35回 電気通信普及財団賞テレコムシステム技術賞
-    T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake, “Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019.
+    「T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake, “Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019.」
 1. 2019年度 IEEE関西支部 Young Professionals賞
-1. 電子情報通信学会通信ソサイエティ 活動功労賞 2015年度, 2018年度
 1. 2015年度 船井情報科学振興財団研究奨励賞
 1. 平成27年度 電子情報通信学会 学術奨励賞
 1. MoNA研究会 2014年度優秀発表賞
 1. 電子情報通信学会関西支部支部長賞　功労賞
 1. 2012年 第28回 電気通信普及財団賞テレコムシステム技術学生賞
-    T. Nishio, R. Shinkuma, T. Takahashi, and N. Mandayam, “TXOP Exchange: A Mechanism for Cooperation in CSMA Networks,” IEICE Transactions on Communications, vol.E95-B, no.6, pp.1944-1952, June 2012.
+    「T. Nishio, R. Shinkuma, T. Takahashi, and N. Mandayam, “TXOP Exchange: A Mechanism for Cooperation in CSMA Networks,” IEICE Transactions on Communications, vol.E95-B, no.6, pp.1944-1952, June 2012.」
 1. 2011年(第8回)IEEE関西支部学生研究奨励賞
-    T. Nishio, R. Shinkuma, T. Takahashi, and G. Hasegawa, “TCP Window-size Delegation for TXOP Exchange in Wireless Access Networks,” Proc. of IEEE International Conference on Communications (ICC) 2011, Kyoto, Japan, June 2011.
+    「T. Nishio, R. Shinkuma, T. Takahashi, and G. Hasegawa, “TCP Window-size Delegation for TXOP Exchange in Wireless Access Networks,” Proc. of IEEE International Conference on Communications (ICC) 2011, Kyoto, Japan, June 2011.」
 1. MoMuC研究会 2010年度若手研究奨励賞
-    西尾理志, 新熊亮一, 高橋達郎(京大), 長谷川 剛(阪大), Mandayam, Narayan(ラトガース大), ``動的無線アクセス環境のための帯域協調利用メカニズム," 信学技報MoMuC, Mar 2011.
+    「西尾理志, 新熊亮一, 高橋達郎(京大), 長谷川 剛(阪大), Mandayam, Narayan(ラトガース大), ``動的無線アクセス環境のための帯域協調利用メカニズム," 信学技報MoMuC, Mar 2011.」
 
 ## Grants
 ### 研究代表

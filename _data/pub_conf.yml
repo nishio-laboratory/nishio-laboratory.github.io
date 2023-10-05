@@ -1,3 +1,23 @@
+- authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
+  title: "Spatial Frequency-based Feature Extraction for Point Cloud-based Proactive mmWave Link Quality Prediction"
+  journal: "Proc. IEEE Globecom, Dec. 2023."
+  year: 2023
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "Asato Yamazaki, Takayuki Nishio, and Yuko Hara-Azumi"
+  title: "Convergence Improvement by Parameters Exchange in Asynchronous Decentralized Federated Learning for Non-IID Data"
+  journal: "Proc. Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), Sept. 2023."
+  year: 2023
+  url:
+  doi: 10.1109/SEAA60479.2023.00015
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "H. Shimomura, Y. Koda, T. Kanda, K. Yamamoto, T. Nishio, and A. Taya"
   title: "Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach"
   journal: "Proc. IEEE CCNC, Jan. 2023."
@@ -140,7 +160,7 @@
 
 - authors: "T. Nishio, R. Shinkuma, and N.B. Mandayam"
   title: "Estimation of Individual Device Contributions for Incentivizing Federated Learning"
-  journal: "Proc. IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
+  journal: "Proc. IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec. 2020."
   year: 2020
   url:
   doi:
@@ -150,7 +170,7 @@
 
 - authors: "N. Yoshida, T. Nishio, M. Morikura, and K. Yamamoto"
   title: "MAB-based Client Selection for Federated Learning with Uncertain Resources in Mobile Networks"
-  journal: "Proc. IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
+  journal: "Proc. IEEE Globecom 2020 Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec. 2020."
   year: 2020
   url:
   doi:
@@ -160,7 +180,7 @@
 
 - authors: "S. Itahara, T. Nishio, M. Morikura, and K. Yamamoto"
   title: "Online Trainable Wireless Link Quality Prediction System using Camera Imagery"
-  journal: "Proc. IEEE Globecom Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec.7-11, 2020"
+  journal: "Proc. IEEE Globecom Open Workshop on Machine Learning in Communications, pp.1-6, Taipei, Taiwan, Dec. 2020"
   year: 2020
   url:
   doi:
@@ -170,7 +190,7 @@
 
 - authors: "Y. Koda, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise"
-  journal: "Proc. IEEE Global Communications Conference (Globecom), pp.1-6, Taipei, Taiwan, Dec.7-11, 2020."
+  journal: "Proc. IEEE Global Communications Conference (Globecom), pp.1-6, Taipei, Taiwan, Dec. 2020."
   year: 2020
   url:
   doi:
@@ -210,7 +230,7 @@
 
 - authors: "M. Shinzaki, Y. Koda, K. Yamamoto, T. Nishio, M. Morikura, C.-H. Huang, Y. Shirato, and N. Kita"
   title: "Deep Reinforcement Learning-based Beam Tracking from mmWave Antennas Installed on Overhead Messenger Wires"
-  journal: "Proc. IEEE Vehicular Technology Conference (VTC-Fall), Victria, B.C., Canada, Oct. 4-,7 2020."
+  journal: "Proc. IEEE Vehicular Technology Conference (VTC-Fall), Victria, B.C., Canada, Oct. 2020."
   year: 2020
   url:
   doi:
@@ -280,7 +300,7 @@
 
 - authors: "Y. Koda, K. Nakashima, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "Cooperative Sensing in Deep RL-Based Image-to-Decision Proactive Handover for mmWave Networks"
-  journal: "Proc. IEEE CCNC, Ja. 2020."
+  journal: "Proc. IEEE CCNC, Jan. 2020."
   year: 2020
   url:
   doi:
@@ -320,7 +340,7 @@
 
 - authors: "Y. Koda, J. Park, M.. Bennis, K. Yamamoto, T. Nishio, and M. Morikura"
   title: "One Pixel Image and RF Signal Based Split Learning for mmWave Received Power Prediction"
-  journal: "Proc. ACM CoNEXT Poster, Orland, Florida, Dec. 9-12, 2019."
+  journal: "Proc. ACM CoNEXT Poster, Orland, Florida, Dec. 2019."
   year: 2019
   url:
   doi:

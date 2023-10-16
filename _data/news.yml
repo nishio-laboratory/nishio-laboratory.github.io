@@ -2,12 +2,11 @@
 # 
 #
 - date: 2023年10月17-20日
-  headline: CEATEC 2023に出展しています。来場をお待ちしています。展示内容（ポスタ）はこちら
-  title1: 展示紹介サイト（CEATEC）
+  headline: CEATEC 2023に出展しています。来場をお待ちしています。
   url1: https://www.ceatec.com/ja/exhibition/detail.html?id=238
-  title2: 展示内容ポスター
+  title1: 展示紹介サイト（CEATEC）
   url2: https://nishio-laboratory.github.io/images/research/poster_CEATEC2023.pdf
-
+  title2: 展示内容ポスター
 
 - date: 2023年10月5日
   headline: しばらく更新をサボっていました。すみません。

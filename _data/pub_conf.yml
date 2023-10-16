@@ -1,3 +1,23 @@
+- authors: "S. Ohta, C. Chen, and T. Nishio"
+  title: "Proactive Millimeter-wave Link Quality Prediction Utilizing Out-of-Band CSI Fingerprinting and Supervised Learning: An Experimental Study"
+  journal: "Proc. IEEE CCNC, Jan. 2024."
+  year: 2023
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "K. Maejima, T. Nishio, A. Yamzaki, and Y. Hara"
+  title: "Tram-FL: Routing-based Model Training for Decentralized Federated Learning"
+  journal: "Proc. IEEE CCNC, Jan. 2024."
+  year: 2023
+  url:
+  doi:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
   title: "Spatial Frequency-based Feature Extraction for Point Cloud-based Proactive mmWave Link Quality Prediction"
   journal: "Proc. IEEE Globecom, Dec. 2023."

@@ -127,6 +127,8 @@ This list is updated almost every month, but Google scholar one is the latest pe
 </ol>
 
 # Awards obtained by students in our team (including Morikura Lab.)
+1. 優秀構想発表賞, 小寺奏怜 2023年
+1. 学生交流会 最優秀発表賞（セッション4）, 太田翔己 2023年
 1. 2022年度 電気情報通信学会 センサネットワークとモバイルインテリジェンス研究会 優秀発表賞, 依田光仁 2023年
 1. 情報通信系優秀学生賞, 陳誠 2023年
 1. 情報通信系優秀学生賞, 堀川裕太郎 2023年

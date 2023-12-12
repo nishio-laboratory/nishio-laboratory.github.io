@@ -24,10 +24,6 @@ Takayuki Nishio
 東京工業大学 工学院情報通信系 准教授  
 Associate Professor, Department of Information and Communications Engineering, School of Engineering, Tokyo Institute of Technology.  
 
-国立研究開発法人 科学技術振興機構 (JST) さきがけ 研究員（兼任）
-
-京都大学 大学院情報学研究科 非常勤研究員（兼任）
-
 KDDI研究所招聘研究員（兼任）
 
 IEEE Senior Member
@@ -36,6 +32,8 @@ IEICE Member
 
 ## Academic qualifications and experience
 R02- 現職  
+R02-03 国立研究開発法人 科学技術振興機構 (JST) さきがけ 研究員（兼任）
+R02-04 京都大学 大学院情報学研究科 非常勤研究員（兼任）
 H28-29 米国ラトガース大学WINLAB 客員研究員  
 H25-R2 京都大学 大学院情報学研究科 助教  
 H25　京都大学 大学大学院情報学研究科 博士後期課程卒業. 博士（情報学）  
@@ -125,34 +123,44 @@ APWCS 2013
 IEEE VNC Poster session 2015  
 IEEE CCNC 2018, 2019  
 IEEE ICC 2019
+IEEE Globecom 2023
 
 ### TPC
+IEEE ICC 2024
+IEEE ICMLCN 2024
+IEEE CQR 2016-2023
 IEEE VTC 2022 workshop
 IEEE VTC 2018-Fall, 2020-Spring, 2021-Fall  
-IEEE CQR 2016-2022
 IEEE CCNC 2017, 2018, 2019  
 IEEE COMNETSAT 2018  
 IEEE WCNC 2018 workshop on CmMmW5G  
 IEEE WCNC 2017 workshop on mmW5G  
 IEEE CCNC 2019 workshop on IWSS  
 IEEE AINA 2015  
-IEEE ICUFN 2019
-IEEE ICAIIC 2020
-IEEE Globecom 2015  
+IEEE ICUFN 2019  
+IEEE ICAIIC 2020  
+IEEE Globecom 2015    
 IEEE VNC 2015  
 APCC 2017-2018  
   
 ### Reviewer  
-IEEE Trans. Mobile Comput.  
-IEEE Journal on Selected Areas in Communications
-IEEE Access
-IEEE Vehicular Technology Magazine
-IEEE Transavtions on Wireless Communications
-IEEE Transactions on Emerging Topics in Computational Intelligence 
+IEEE Transactions on Mobile Computing  
+IEEE Transactions on Machine Learning in Communications and Networking  
+IEEE IoT Journals  
+IEEE Journal on Selected Areas in Communications  
+IEEE Transactions on Emerging Topics in Computational Intelligence   
+IEEE Transavtions on Wireless Communications  
+IEEE Transavtions on Network and Service Management  
 IEEE Wireless Communications Letters  
+IEEE Communications Letters   
+IEEE Vehicular Technology Magazine  
+IEEE Network Magazine  
+IEEE Access  
+IEEE Open Journals in Vehicular Technology  
+IEEE Open Journals in Computer Society  
 Wireless Communications and Mobile Computing  
-IEEE Globecom 2013-2021
-IEEE ICC 2013-2021
+IEEE Globecom 2013-2021  
+IEEE ICC 2013-2021  
 IEEE WCNC 2018  
 IEEE PIMRC 2017  
 IEEE CQR 2016, 2017  

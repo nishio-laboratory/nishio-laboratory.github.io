@@ -56,6 +56,14 @@
   joined: Dec. 2021
   graduated:
 
+- name: 片山遼 (Ryo Katayama)
+  photo: dummy_member.png
+  info: M1
+  email: 
+  number_educ: 
+  joined: Apr. 2022
+  graduated:
+
 - name: 茅野恵大 (Keita Kayano)
   photo: dummy_member.png
   info: B4
@@ -64,10 +72,18 @@
   joined: Dec. 2022
   graduated:
 
-- name: 片山遼 (Ryo Katayama)
+- name: 上口 (Kamiguchi)
   photo: dummy_member.png
-  info: 研究生
+  info: B3
   email: 
   number_educ: 
-  joined: Apr. 2022
+  joined: Dec. 2023
+  graduated:
+
+- name: 酒井 (Sakai)
+  photo: dummy_member.png
+  info: B3
+  email: 
+  number_educ: 
+  joined: Dec. 2023
   graduated:

@@ -1,3 +1,12 @@
+- authors: "H. Shimomura, S. Kondo, K. Yamamoto, T. Nishio, A. Taya"
+  title: "Sensing SNR-based Feature Selection of Beamforming Feedback Toward Firmware-Agnostic WiFi Sensing"
+  journal: "IEEE Wireless Communications Letters, Mar. 2024."
+  year: 2023
+  url:
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Y. Kihira, K. Yamamoto, A. Taya, T. Nishio, Y. Koda, and K. Yano"
   title: "Interference-free AP identification and shared information reduction for tabular Q-learning-based WLAN coordinated spatial reuse"
   journal: "IEICE ComEX, Apr. 2022."

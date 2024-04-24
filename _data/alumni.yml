@@ -7,6 +7,22 @@
 #  education2:
 #  education3:
 #  education4:
+- name: 依田光仁（Koji Yorita）
+  photo: yorita.jpg
+  info: Master's degree
+  email: 
+  number_educ: 1
+  joined: Dec. 2020
+  graduated: Mar. 2024
+
+- name: 前島航太（Kota Maejima）
+  photo: maejima.jpg
+  info: Master's degree
+  email: 
+  number_educ: 1
+  joined: Apr. 2022
+  graduated: Mar. 2024
+
 
 - name: 板原壮平 (Sohei Itahara)
   photo: itahara.jpg

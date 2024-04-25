@@ -1,6 +1,7 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+<<<<<<< HEAD
 - date: 2024年4月吉日
   headline: 新メンバーが2名加入！
   url: 
@@ -25,6 +26,19 @@
 - date: 2023年12月吉日
   headline: M1の小寺さんが優秀構想発表賞を受賞しました。おめでとうございます。
   url: https://educ.titech.ac.jp/ict/news/2024_01/065392.html
+=======
+- date: 2023年12月吉日
+  headline: メンバーリストを(仮)更新。
+  url: 
+
+- date: 2023年12月6日
+  headline: クアラルンプールで開催されたIEEE GlobecomでM2の太田くんが発表しました。西尾准教授はセッションチェアしてました。
+  url: https://globecom2023.ieee-globecom.org/program/technical-program-day-2
+
+- date: 2023年11月吉日
+  headline: 国際会議IEEE CCNC 2024にM2の太田さん、前島さん、西尾准教授主著の発表が3件採録されました。ラスベガスでお会いしましょう。
+  url: https://ccnc2024.ieee-ccnc.org/
+>>>>>>> 3c334b6fccdb17701a9c091ec171b6997d86ca6d
 
 - date: 2023年10月17-20日
   headline: CEATEC 2023に出展しています。来場をお待ちしています。

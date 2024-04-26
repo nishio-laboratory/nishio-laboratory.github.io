@@ -1,6 +1,10 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2024年4月末
+  headline: エラーに気がつかず、4ヶ月ほどサイト更新が滞ってました。もっと自動化したいものですね。
+  url: 
+
 - date: 2024年4月吉日
   headline: 新メンバーが2名加入！
   url: 
@@ -14,7 +18,7 @@
   url: 
 
 - date: 2024年1月7日
-  headline: M2の太田さん、前島さん、依田さんが国際会議IEEE CCNCで発表しました。Demo発表がBest Demo Runners up
+  headline: M2の太田さん、前島さん、依田さんが国際会議IEEE CCNCで発表しました。また、我々のDemo発表がBest Demo Runners Upを受賞しました。
   url: https://ieeexplore.ieee.org/xpl/conhome/10454139/proceeding
 
 - date: 2023年12月6日

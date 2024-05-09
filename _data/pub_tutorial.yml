@@ -1,4 +1,23 @@
 - authors: "西尾理志"
+  title: "［招待講演］通信フレンドリーな分散機械学習"
+  journal: "フォレストワークショップ2024, Mar. 2024."
+  year: 2023
+  url: https://www-alg.ist.hokudai.ac.jp/~atsu/forest_workshop_2024.html
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "佐々木勇和、西尾理志、Seng Pei Liew、Yang Cao、鈴木 雄太"
+  title: "［チュートリアル］連合学習のすゝめ。"
+  journal: "DEIM 2024, Mar. 2024."
+  year: 2023
+  url: https://confit.atlas.jp/guide/event/deim2024/static/tutorial
+  image: dummy.png
+  description:
+  highlight: 0
+
+
+- authors: "西尾理志"
   title: "［招待講演］Model-Free Federated Learningに向けた知識蒸留の応用"
   journal: "信学技報, vol. 123, no. 19, SR2023-21, pp. 92-92, May 2023."
   year: 2023

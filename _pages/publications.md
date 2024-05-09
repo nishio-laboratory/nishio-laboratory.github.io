@@ -126,7 +126,7 @@ This list is updated almost every month, but Google scholar one is the latest pe
 {% endfor %}
 </ol>
 
-# Awards obtained by students in our team (including Morikura Lab.)
+# Awards obtained by students in our team
 1. 第39回電気通信普及財団テレコムシステム技術学生賞, 太田翔己 2023年
 1. 情報通信系優秀学生賞, 太田翔己 2024年
 1. 優秀構想発表賞, 小寺奏怜 2023年
@@ -175,10 +175,6 @@ This list is updated almost every month, but Google scholar one is the latest pe
 # Books and Lecture notes
 1. 西尾理志, ``無線ネットワークにおける連合機械学習,” 電子情報通信学会誌,　Vol.105, No.1, pp. 16-21, Jan. 2022.
 1. 西尾理志, ``RGB-Dカメラと機械学習で無線通信品質を見る," 電子情報通信学会誌,　Vol.102, No.4, pp. 346-352, Apr. 2019.
-
-# Workshops and Conferences (no review)
-There are many papers. Please See <a href="https://kyouindb.iimc.kyoto-u.ac.jp/j/tB1oN">京都大学 教育研究活動データベース</a>
-or <a href="http://www.ieice.org/ken/search/index.php?search_mode=form&year=39&psort=1&pskey=author%3A%22%E8%A5%BF%E5%B0%BE+%E7%90%86%E5%BF%97%22&ps2=1&layout=&lang=&term=AUTHOR">信学会研究会データベース</a>
 
 # Patent
 <b>登録特許</b><br>
@@ -231,4 +227,4 @@ or <a href="http://www.ieice.org/ken/search/index.php?search_mode=form&year=39&p
   <li>守倉　正博、山本　高至、西尾　理志、杉原　智行、特開2016-131312「通信制御方法、及び、通信装置」2015年1月14日出願</li>
   <li>他、出願中特許 3件</li>
 </ol>
-</div>
+

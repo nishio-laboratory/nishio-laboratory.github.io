@@ -16,6 +16,14 @@
   description:
   highlight: 0
 
+- authors: "西尾理志"
+  title: "［招待講演］無線通信分野における機械学習応用研究"
+  journal: "IEICE OCS Summer School 2023, July 2023."
+  year: 2023
+  url: https://www.ieice.org/cs/ocs/jpn/?plugin=attach&refer=SummerSchool2023&openfile=OCS%20Summer%20School%202023_flyer_20230606_06.pdf
+  image: dummy.png
+  description:
+  highlight: 0
 
 - authors: "西尾理志"
   title: "［招待講演］Model-Free Federated Learningに向けた知識蒸留の応用"

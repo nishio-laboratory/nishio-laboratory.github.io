@@ -1,9 +1,19 @@
+- authors: "T. Nishio, K. Yorita, S. Ohta, K. Maejima, K. Kodera, Y. Horikawa, K. Fukui"
+  title: "Demo: Split Computing-Based Privacy-Preserving Image Classification and Object Detection"
+  journal: "Proc. IEEE CCNC, Jan. 2024."
+  year: 2023
+  url:
+  doi: 10.1109/CCNC51664.2024.10454718
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Ohta, C. Chen, and T. Nishio"
   title: "Proactive Millimeter-wave Link Quality Prediction Utilizing Out-of-Band CSI Fingerprinting and Supervised Learning: An Experimental Study"
   journal: "Proc. IEEE CCNC, Jan. 2024."
   year: 2023
   url:
-  doi:
+  doi: 10.1109/CCNC51664.2024.10454787
   image: dummy.png
   description:
   highlight: 0
@@ -13,7 +23,7 @@
   journal: "Proc. IEEE CCNC, Jan. 2024."
   year: 2023
   url:
-  doi:
+  doi: 10.1109/CCNC51664.2024.10454716
   image: dummy.png
   description:
   highlight: 0
@@ -23,7 +33,7 @@
   journal: "Proc. IEEE Globecom, Dec. 2023."
   year: 2023
   url:
-  doi:
+  doi: 10.1109/GLOBECOM54140.2023.10437609
   image: dummy.png
   description:
   highlight: 0

@@ -5,24 +5,11 @@ excerpt: "Nishio Lab -- Research Project"
 permalink: /project/
 ---
 
-# 作成途中...
+# Research Projects
 
----
+## Vision-Wireless
+無線通信とコンピュータビジョンの融合領域に関する研究を推進しています。5Gや6Gなどの次世代移動体通信ではミリ波やテラヘルツ波など、従来はレーダに用いられていたような非常に高い周波数が通信に用いられます。しかし、これらの高い周波数の信号は車両や歩行者によって遮られるだけで大きく減衰します。本研究では、身の回りに増えつつあるカメラやLiDARなどの環境センシング技術を用いてこれら高周波帯通信の状態を予測したり通信に役立てるVision 4 Wireless (V4W)技術や、その逆の問題、すなわち、無線通信の信号から環境の状態を推定するWireless for Vision (W4V)技術を研究しています。
 
-<div class="row"><h2 id="Research">Recent Research Projects</h2></div>
-<br>
-<div class="row">
-  <div class="col-sm-3">
-      <center>
-          <img src="{{ site.url }}{{ site.baseurl }}/images/research/FL.png" alt="写真" width="250px">
-      </center>
-  </div>
-  <div class="col-sm-9">
-      <h4>Federated Learning in Mobile Networks</h4>
-      スマートフォンやセンサなど無線ネットワーク上の端末のもつデータや計算能力を活用して機械学習を分散的に行い、高度なAIを実現します。
-  </div>
-</div> 
-<br><br>
 <div class="row">
   <div class="col-sm-3">
       <center>
@@ -30,10 +17,53 @@ permalink: /project/
       </center>
   </div>
   <div class="col-sm-9">
-      <h4>Vision-assisted wireless networks</h4>
+      <h4>Vision to Wireless Communications (V2W)</h4>
       カメラ画像などコンピュータビジョン技術を用いて無線通信を予測したり制御したりする新技術を創出します。
   </div>
 </div>
+
+<div class="row">
+  <div class="col-sm-3">
+      <center>
+          <img src="{{ site.url }}{{ site.baseurl }}/images/research/imaging.png" alt="写真" width="250px">
+      </center>
+  </div>
+  <div class="col-sm-9">
+      <h4>Wireless for Vision　Sensing</h4>
+      Wi-FiやWigigの信号から、部屋にいる人の人数や行動を推定したり、映像を復元したりする次世代のセンシング技術を実現します。
+  </div>
+</div>
+
+## Communication-oriented Machine Learning
+無線通信と機械学習の融合領域に関する研究を推進しています。特に通信ネットワーク上のスマートフォンやラップトップ、サーバやIoTデバイスが、互いに連携しながら機械学習のモデルの訓練や推論処理を分散協調に行う技術に関して、通信ネットワークとの親和性の高い手法を研究開発しています。具体的にはFederated Learning (連合機械学習)やSplit Computing（分散推論）、Semantic Communicationsの新たなアルゴリズムやメカニズムを研究します。
+
+<div class="row">
+  <div class="col-sm-3">
+      <center>
+          <img src="{{ site.url }}{{ site.baseurl }}/images/research/FL.png" alt="写真" width="250px">
+      </center>
+  </div>
+  <div class="col-sm-9">
+      <h4>Communication-efficient Federated Learning</h4>
+      スマートフォンやセンサなど無線ネットワーク上の端末のもつデータや計算能力を活用して機械学習を分散的に行い、高度なAIを実現します。
+  </div>
+</div> 
+
+<div class="row">
+  <div class="col-sm-3">
+      <center>
+          <img src="{{ site.url }}{{ site.baseurl }}/images/research/SC.png" alt="写真" width="250px">
+      </center>
+  </div>
+  <div class="col-sm-9">
+      <h4>Communication-oriented Split Computing</h4>
+      通信帯域の制限や通信路におけるパケットの欠損など、通信ネットワーク的な制約がある中でも効率的に動作する分散機械学習推論手法を研究します。
+  </div>
+</div> 
+
+---
+
+
 <br><br>
 <div class="row">
   <div class="col-sm-3">
@@ -47,17 +77,7 @@ permalink: /project/
   </div>
 </div>
 <br><br>
-<div class="row">
-  <div class="col-sm-3">
-      <center>
-          <img src="{{ site.url }}{{ site.baseurl }}/images/research/imaging.png" alt="写真" width="250px">
-      </center>
-  </div>
-  <div class="col-sm-9">
-      <h4>Sensing from Wireless Communication Signals</h4>
-      Wi-FiやWigigの信号から、部屋にいる人の人数や行動を推定したり、映像を復元したりする次世代のセンシング技術を実現します。
-  </div>
-</div>
+
 
 
 ## JST さきがけIoT　「機械学習するIoT通信ネットワーク基盤」 （2020年度〜2023年度） 

@@ -5,7 +5,7 @@ excerpt: "Nishio Lab -- Publications."
 permalink: /publications/
 ---
 
-{% assign current_year = 2022 %}
+{% assign current_year = 2024 %}
 
 # Publications
 <p>

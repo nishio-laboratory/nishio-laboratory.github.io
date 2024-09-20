@@ -6,6 +6,7 @@ permalink: /project/
 ---
 
 # Research Vision
+本研究室では無線通信システムを軸に分野横断的な研究に取り組んでいます。現在推進している研究は大きく分けると**Vision-Wireless**と**Communication-oriented Machine Learning**になります。どちらも通信システムの観点から、Computer visionやMachine Learningとの融合領域を探求するものです。
 
 ## Vision-Wireless
 無線通信とコンピュータビジョンの融合領域に関する研究を推進しています。5Gや6Gなどの次世代移動体通信ではミリ波やテラヘルツ波など、従来はレーダに用いられていたような非常に高い周波数が通信に用いられます。しかし、これらの高い周波数の信号は車両や歩行者によって遮られるだけで大きく減衰します。本研究では、身の回りに増えつつあるカメラやLiDARなどの環境センシング技術を用いてこれら高周波帯通信の状態を予測したり通信に役立てるVision 4 Wireless (V4W)技術や、その逆の問題、すなわち、無線通信の信号から環境の状態を推定するWireless for Vision (W4V)技術を研究しています。
@@ -61,10 +62,18 @@ permalink: /project/
   </div>
 </div> 
 
-# Research Projects and Highlighted Results
+---
 
-## JST さきがけIoT　「機械学習するIoT通信ネットワーク基盤」 （2020年度〜2023年度） 
-本研究は、IoT-AIトラヒックの爆発的増加とデータプライバシの課題を解決するため、IoTデータの地産地消を実現する通信とAIデータ処理が一体化したIoT基盤構築を目指す。従来型クラウドAIを用いたIoTデータ処理ではなく、IoTデータを収集するローカルNW内で分散的にAI処理することで、コアNWのトラヒック削減とリアルタイム性向上および機密情報流出の危険性を大きく低減可能なIoT基盤を創出する。
+# Specific Research Projects and Highlighted Results
+
+### ASPIRE　（2023年度〜2026年度）
+電通大の須藤先生（代表）と佐藤先生とチームを組み、無線通信・センシング・機械学習の融合領域研究に関して国際的研究を推進。
+
+### ALCA-NEXT　（2024年度〜2027年度）
+京都大学の粟野先生（代表）と筑波大学 境野先生とチームを組み、GreenなAIロボット実現に向けた研究を推進します。西尾研究室では特に分散したロボットにおけるAI学習の低消費電力化などに取り組んでいます。
+
+### JST さきがけIoT　「機械学習するIoT通信ネットワーク基盤」 （2020年度〜2023年度） 
+本研究は、IoT-AIトラヒックの爆発的増加とデータプライバシの課題を解決するため、IoTデータの地産地消を実現する通信とAIデータ処理が一体化したIoT基盤構築を目指す。従来型クラウドAIを用いたIoTデータ処理ではなく、IoTデータを収集するローカルNW内で分散的にAI処理することで、コアNWのトラヒック削減とリアルタイム性向上および機密情報流出の危険性を大きく低減可能なIoT基盤を創出する。代表的成果は以下です。
 
 #### Distillation-Based Semi-Supervised Federated Learning (DS-FL)
 Federated Learningの課題であるモデル共有時に発生する大量の通信トラヒックを削減するため、モデル自体ではなくモデルの出力（logit）を用いた学習フレームワークを提案した。従来のモデル共有に基づくFLと比べ、一定の精度を達成するまでの通信トラヒックを1/50~1/100に低減できることを示した。
@@ -77,7 +86,8 @@ Federated Learningの課題であるモデル共有時に発生する大量の�
 - S. Itahara, T. Nishio, K. Yamamoto, "Packet-Loss-Tolerant Split Inference for Delay-Sensitive Deep Learning in Lossy Wireless Networks," Proc. IEEE Globecom, Dec. 2021.
 - Sohei Itahara, Takayuki Nishio, Yusuke Koda, Koji Yamamoto, “Communication-oriented Model Fine-tuning for Packet-loss Resilient Distributed Inference under Highly Lossy IoT Networks,” arXiv preprint arXiv:2112.09407, Dec. 2021.
 
----
-
-## 科研費 若手研究 「無線通信環境をみるコンピュータビジョン技術」　　（2018年度〜2021年度） 
+<!--
+### 科研費 
+#### 若手研究 「無線通信環境をみるコンピュータビジョン技術」　　（2018年度〜2021年度） 
 本研究は、カメラやレーダなどの視覚（ビジョン）データから無線通信品質を予測することである。ミリ波通信や可視光通信、テラヘルツ通信など超高周波帯を用いた通信では、歩行者や車、植物などが見通し通信路を遮蔽すると信号電力が大きく低下し、通信品質を劣化させる。一方、反射物となるようなものが近傍に存在すれば、強い反射波を受信することで通信を継続することができる。このような電波伝搬空間情報はカメラやレーダなどビジョンデータに内包されており、それを読み解くことで通信品質を予測できる可能性がある。
+-->

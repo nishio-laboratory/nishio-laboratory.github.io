@@ -1,3 +1,23 @@
+- authors: "Shunsuke Sato, Ryoichi Shinkuma, Kensei Hirai, Masataka Nakahara, Norihiro Okui, Ayumu Kubota, Yasuaki Kobayashi, Keizo Sugiyama, Takayuki Nishio"
+  title: "Data Acquisition Framework for Micromobility Vehicles Toward Driving Risk Prediction Against Cyberphysical Security Attack"
+  journal: "IEEE Security & Privacy, pp. 2-11, 2024."
+  year: 2024
+  url: 
+  doi: 10.1109/MSEC.2024.3441731
+  image: dummy.png
+  description: 
+  highlight: 0
+
+- authors: "Hiroki Shimomura, Koji Yamamoto, Takayuki Nishio, Akihito Taya"
+  title: "Beamforming Feedback-Based Line-of-Sight Identification Toward Firmware-Agnostic WiFi Sensing"
+  journal: "IEEE Open Journal of Vehicular Technology, vol. 5, pp. 1024-1035, 2024."
+  year: 2024
+  url: 
+  doi: 10.1109/OJVT.2024.3440400
+  image: dummy.png
+  description: 
+  highlight: 0
+
 - authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
   title: "Point Cloud-Based Proactive Link Quality Prediction for Millimeter-Wave Communications"
   journal: "IEEE Transactions on Machine Learning in Communications and Networking, vol. 1, pp. 258-276, Sept. 2023."

@@ -89,7 +89,7 @@
 #  highlight: 0
 
 - authors: "西尾理志"
-  title: "［Tutorial］連合機械学習（Federated Learning）入門"
+  title: "［依頼チュートリアル］連合機械学習（Federated Learning）入門"
   journal: "IEICE Webinarテクノロジートレンドシリーズ, Sept. 2022."
   year: 2022
   url: https://www.ieice.org/jpn_r/activities/video_archives/webinar-trend.html
@@ -107,7 +107,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "[Tutorial] Federated Learningの基礎と応用"
+  title: "[依頼チュートリアル] Federated Learningの基礎と応用"
   journal: "SSII, June. 2022."
   year: 2022
   url: 
@@ -125,7 +125,7 @@
   highlight: 0
 
 - authors: "西尾理志"
-  title: "分散協調機械学習 (Federated Learning) チュートリアル"
+  title: "[企画・講演] 分散協調機械学習 (Federated Learning) チュートリアル"
   journal: "信学ソサイエティ大会, Sep. 2021. "
   year: 2021
   url: 

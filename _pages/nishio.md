@@ -60,6 +60,7 @@ twitter: @_240_
 
 # Awards and Grants
 ## Awards
+1. 2024年度 KDDI財団 KDDI Foundation Award（奨励賞）
 1. 電子情報通信学会通信ソサイエティ 活動功労賞 2015年度, 2018年度, 2021年度, 2023年度
 1. 2022年度 電子情報通信学会　末松安晴賞
 1. IEICE Communication Society Best Paper Award
@@ -95,6 +96,7 @@ twitter: @_240_
 1. 公益財団法人NEC C&C財団 国際会議論文発表者助成
 
 ### 分担者
+1. JST ALCA-NEXT「ロボットトランスフォーメーションを支える低炭素模倣学習(粟野皓光代表)」
 1. JST ASPIRE FOR RISING SCIENTISTS「通信・センシング・学習の融合によるレジリエントサイバー空間生成基盤（須藤克弥代表）」（2024-2026年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（A）「モビリティ革新に向けた大規模点群のリアルタイム推論のための分散機械学習理論と基盤(安積卓也代表)」（2023-2026年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「情報鮮度AoIに関する基礎理論の確立と多様な情報通信システムへの応用」（2021-2023年度、研究分担者）
@@ -107,7 +109,7 @@ twitter: @_240_
 ### 産学連携・企業共同研究
 - NTT研究所 (2020年度~)
 - 東芝 (2020年度~)
-- KDDI総合研究所 (2021年度~)
+- KDDI総合研究所 (2021年度~2023年度)
 - 日立 (2023年度~)
 - アルバック (2023年度~)
 
@@ -127,13 +129,17 @@ IEEE CCNC 2018, 2019
 IEEE ICC 2019
 IEEE Globecom 2023
 
+### Editor
+IEEE Transactions on Machine Learning in Communications and Networking
+
 ### TPC
-IEEE ICC 2024
-IEEE ICMLCN 2024
-IEEE CQR 2016-2023
+IEEE ICMLCN 2024, 2025
+IEEE ICC 2024, 2025
+IEEE Globecom 2015, 2024
+IEEE CCNC 2017, 2018, 2019, 2025
+IEEE CQR 2016-2024
 IEEE VTC 2022 workshop
 IEEE VTC 2018-Fall, 2020-Spring, 2021-Fall  
-IEEE CCNC 2017, 2018, 2019  
 IEEE COMNETSAT 2018  
 IEEE WCNC 2018 workshop on CmMmW5G  
 IEEE WCNC 2017 workshop on mmW5G  
@@ -141,7 +147,6 @@ IEEE CCNC 2019 workshop on IWSS
 IEEE AINA 2015  
 IEEE ICUFN 2019  
 IEEE ICAIIC 2020  
-IEEE Globecom 2015    
 IEEE VNC 2015  
 APCC 2017-2018  
   

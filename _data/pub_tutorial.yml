@@ -1,4 +1,22 @@
 - authors: "西尾理志"
+  title: "［招待講演］通信ネットワーク上での分散的な機械学習"
+  journal: "電子情報通信学会 DPF研究会, Oct. 2024."
+  year: 2024
+  url: 
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
+  title: "［依頼講演］Semantic Communicationに向けた分散機械学習推論"
+  journal: "ソサイエティ大会 IN研企画セッション, Sept. 2024."
+  year: 2024
+  url: 
+  image: dummy.png
+  description:
+  highlight: 0
+
+- authors: "西尾理志"
   title: "［招待講演］通信フレンドリーな分散機械学習"
   journal: "フォレストワークショップ2024, Mar. 2024."
   year: 2023

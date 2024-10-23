@@ -1,3 +1,13 @@
+- authors: "M. Iftikar, D. K. P. Asiedu, T. Nishio, J.-H. Yun"
+  title: "Deep Reinforcement Learning Based Overfill Rendering, Offloading and Subband Allocation for Edge-Assisted VR System"
+  journal: "IEEE Access"
+  year: 2024
+  url:
+  doi: 10.1109/ACCESS.2024.3477497
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Shunsuke Sato, Ryoichi Shinkuma, Kensei Hirai, Masataka Nakahara, Norihiro Okui, Ayumu Kubota, Yasuaki Kobayashi, Keizo Sugiyama, Takayuki Nishio"
   title: "Data Acquisition Framework for Micromobility Vehicles Toward Driving Risk Prediction Against Cyberphysical Security Attack"
   journal: "IEEE Security & Privacy, pp. 2-11, 2024."

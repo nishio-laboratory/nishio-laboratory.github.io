@@ -1,6 +1,30 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2025年1月1日
+  headline: D2 Chenさん主著の論文がIEEE IoT Journalに採録決定しました。
+  doi: 
+
+- date: 2024年12月1日
+  headline: 板原さん(2022年卒)主著の論文がIEEE Transactions on Mobile ComputingのBest Paper Award 2023を受賞しました！！！
+  doi: 10.1109/TMC.2021.3070013
+
+- date: 2024年11月13日
+  headline: M2 堀川さん、M1 岡田さんが学生技術交流会で発表し、岡田さんが優秀発表賞を受賞しました。
+  url:
+
+- date: 2024年11月11日
+  headline: M1 岡田さんがIEICE RISING 2024で発表し、優秀ポスター発表賞を受賞しました。
+  url:
+
+- date: 2024年10月吉日
+  headline: D1の太田さんがIEEE TVTに採録決定。加えて、M2 小寺さん、堀川さん、M1 茅野さんがIEEE CCNCに採録決定し、来年1月にラスベガスで発表してきます。
+  url: 
+
+- date: 2024年9月吉日
+  headline: 西尾准教授が公益財団法人KDDI財団 KDDI Foundation Award 2024を受賞。
+  url: https://info.kddi-foundation.or.jp/8420/
+
 - date: 2024年9月
   headline: Publications、Research Projects, About NLABを更新。
   url: 

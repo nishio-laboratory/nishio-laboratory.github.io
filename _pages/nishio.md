@@ -53,18 +53,20 @@ H18　福井県立武生高等学校卒業. ハンドボール部（右サイド
 Wireless Networks, Machine Learning, Federated Learning, Vision and Wireless, Multimodality
 
 ## Contact
-E-mail: nishio (at) ict.e.titech.ac.jp  
+E-mail: nishio（あっとまーく）ict.eng.isct.ac.jp
 twitter: @_240_
 
 
 
 # Awards and Grants
 ## Awards
+1. IEEE Transactions on Mobile ComputingのBest Paper Award 2023 
+「S. Itahara, T. Nishio, Y. Koda, M. Morikura and K. Yamamoto, "Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training With Non-IID Private Data," in IEEE Transactions on Mobile Computing, vol. 22, no. 1, pp. 191-205, 1 Jan. 2023, doi: 10.1109/TMC.2021.3070013.」
 1. 2024年度 KDDI財団 KDDI Foundation Award（奨励賞）
 1. 電子情報通信学会通信ソサイエティ 活動功労賞 2015年度, 2018年度, 2021年度, 2023年度
 1. 2022年度 電子情報通信学会　末松安晴賞
 1. IEICE Communication Society Best Paper Award
-「K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera, "Stochastic geometry analysis of inversely proportional carrier sense threshold and transmission power for WLAN spatial reuse," IEICE Trans. Commun., vol.E104-B, no.10, pp. 1345-1353, Oct. 2021.
+「K. Yamamoto, T. Nishio, M. Morikura, and H. Abeysekera, "Stochastic geometry analysis of inversely proportional carrier sense threshold and transmission power for WLAN spatial reuse," IEICE Trans. Commun., vol.E104-B, no.10, pp. 1345-1353, Oct. 2021.」
 1. 第35回 電気通信普及財団賞テレコムシステム技術賞
     「T. Nishio, H. Okamoto, K. Nakashima, Y. Koda, K. Yamamoto, M. Morikura, Y. Asai, and R. Miyatake, “Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 11, pp. 2413-2427, Nov. 2019.」
 1. 2019年度 IEEE関西支部 Young Professionals賞
@@ -96,7 +98,7 @@ twitter: @_240_
 1. 公益財団法人NEC C&C財団 国際会議論文発表者助成
 
 ### 分担者
-1. JST ALCA-NEXT「ロボットトランスフォーメーションを支える低炭素模倣学習(粟野皓光代表)」
+1. JST ALCA-NEXT「ロボットトランスフォーメーションを支える低炭素模倣学習(粟野皓光代表)」（2024-2027年度、研究分担者）
 1. JST ASPIRE FOR RISING SCIENTISTS「通信・センシング・学習の融合によるレジリエントサイバー空間生成基盤（須藤克弥代表）」（2024-2026年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（A）「モビリティ革新に向けた大規模点群のリアルタイム推論のための分散機械学習理論と基盤(安積卓也代表)」（2023-2026年度、研究分担者）
 1. 日本学術振興会　科学研究費助成事業　基盤研究（B）「無線制御信号から漏洩するプライバシの保護（山本高至代表）」（2023年度-2026年度、研究分担者）
@@ -112,7 +114,7 @@ twitter: @_240_
 - 東芝 (2020年度~)
 - KDDI総合研究所 (2021年度~2023年度)
 - 日立 (2023年度~)
-- アルバック (2023年度~)
+- アルバック (2023年度)
 
 # Aacdemic society activities
 ## International

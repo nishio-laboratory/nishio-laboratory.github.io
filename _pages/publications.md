@@ -127,6 +127,9 @@ This list is updated almost every month, but Google scholar one is the latest pe
 </ol>
 
 # Awards obtained by students in our team
+1. IEICE RISING 優秀ポスター賞, 岡⽥侑也 2024年.
+1. 学生技術交流集会 優秀発表賞, 岡⽥侑也 2024年.
+1. 第39回電気通信普及財団テレコムシステム技術学生賞, 太田翔己 2023年
 1. 第39回電気通信普及財団テレコムシステム技術学生賞, 太田翔己 2023年
 1. 情報通信系優秀学生賞, 太田翔己 2024年
 1. 優秀構想発表賞, 小寺奏怜 2023年

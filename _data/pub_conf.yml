@@ -7,10 +7,10 @@
   image: dummy.png
   description:
   highlight: 0
-
-- authors: "Yutaro Horikawa and Takayuki Nishio"
+  
+  - authors: "Yutaro Horikawa and Takayuki Nishio"
   title: "One-shot Bottleneck Size Optimization in CNN for Split Computing"
-  journal: "Proc. IEEE CCNC, Jan. 2024."
+  journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
   url:
   doi: 

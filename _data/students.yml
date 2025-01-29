@@ -42,7 +42,7 @@
 
 - name: 片山遼 (Ryo Katayama)
   photo: dummy_member.png
-  info: M1
+  info: M2
   email: 
   number_educ: 
   joined: Apr. 2022
@@ -88,3 +88,19 @@
   joined: Dec. 2023
   graduated:
 
+
+- name: 貝沼遥生 (Haruki Kainuma)
+  photo: dummy_member.png
+  info: B3
+  email: 
+  number_educ: 4
+  joined: Dec. 2024
+  graduated:
+
+- name: 橋本結衣 (Yui Hashimoto)
+  photo: dummy_member.png
+  info: B3
+  email: 
+  number_educ: 4
+  joined: Dec. 2024
+  graduated:

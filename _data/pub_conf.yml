@@ -7,8 +7,8 @@
   image: dummy.png
   description:
   highlight: 0
-  
-  - authors: "Yutaro Horikawa and Takayuki Nishio"
+
+- authors: "Yutaro Horikawa and Takayuki Nishio"
   title: "One-shot Bottleneck Size Optimization in CNN for Split Computing"
   journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
@@ -18,7 +18,7 @@
   description:
   highlight: 0
 
-  - authors: "Keita Kayano, Shoki Ohta, Takayuki Nishio, Daiki Yoda, Kentaro Taniguchi, and Toshihisa Nabetani"
+- authors: "Keita Kayano, Shoki Ohta, Takayuki Nishio, Daiki Yoda, Kentaro Taniguchi, and Toshihisa Nabetani"
   title: "Experimental Evaluation of Long-Term Concept Drift and Its Mitigation in WiFi CSI Sensing"
   journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
@@ -28,7 +28,7 @@
   description:
   highlight: 0
 
-  - authors: "Chen Yen-Hsiu, Yoichi Hirose, Shoma Shimizu, Shota Saito, Kento Uchida, Shinichi Shirakawa, and Takayuki Nishio "
+- authors: "Chen Yen-Hsiu, Yoichi Hirose, Shoma Shimizu, Shota Saito, Kento Uchida, Shinichi Shirakawa, and Takayuki Nishio "
   title: "Enhancing Latency-Accuracy Tradeoff in Dynamic Split Inference via Vector Quantized Bottleneck"
   journal: "Proc. IEEE Globecom WS, Jan. 2024."
   year: 2024

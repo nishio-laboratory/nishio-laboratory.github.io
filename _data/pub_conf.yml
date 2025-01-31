@@ -28,7 +28,7 @@
   description:
   highlight: 0
 
-- authors: "Chen Yen-Hsiu, Yoichi Hirose, Shoma Shimizu, Shota Saito, Kento Uchida, Shinichi Shirakawa, and Takayuki Nishio "
+- authors: "Chen Yen-Hsiu, Yoichi Hirose, Shoma Shimizu, Shota Saito, Kento Uchida, Shinichi Shirakawa, and Takayuki Nishio"
   title: "Enhancing Latency-Accuracy Tradeoff in Dynamic Split Inference via Vector Quantized Bottleneck"
   journal: "Proc. IEEE Globecom WS, Jan. 2024."
   year: 2024

@@ -1,3 +1,13 @@
+- authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
+  title: "Real2Sim2Real for Point Cloud-Based mmWave Link Quality Prediction: An Empirical Study"
+  journal: "IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5270-5275, March 2025
+  year: 2025
+  url: 
+  doi: 10.1109/TVT.2024.3486371
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Cheng Chen, Shoki Ohta, Takayuki Nishio, Mehdi Bennis, Jihong Park, and Mohamed Wahib"
   title: "Enabling Visual Scene Recovery from Wi-Fi CSI for Occlusion-Free Surveillance"
   journal: "IEEE Internet of Things Journal"
@@ -163,7 +173,7 @@
   journal: "IEEE Transactions on Cognitive Communications and Networking, Dec. 2021."
   year: 2021
   url: 
-  doi:
+  doi: 10.1109/TCCN.2021.3116231
   image: dummy.png
   description:
   highlight: 0

@@ -10,7 +10,7 @@
 
 - name: 陳  誠（Chen Cheng）
   photo: chen.jpg
-  info: D2
+  info: D3
   email: 
   number_educ: 1
   joined: Sept. 2021
@@ -18,39 +18,15 @@
 
 - name: 太田翔己（Shoki Ohta）
   photo: ohta.jpg
-  info: D1
+  info: D3
   email: 
   number_educ: 1
   joined: Dec. 2020
   graduated: 
 
-- name: 小寺奏怜 (Kanare Kodera)
-  photo: kodera.jpg
-  info: M2
-  email: 
-  number_educ: 4
-  joined: Dec. 2021
-  graduated:
-
-- name: 堀川裕太郎 (Yutaro Horikawa)
-  photo: horikawa.jpg
-  info: M2
-  email: 
-  number_educ: 4
-  joined: Dec. 2021
-  graduated:
-
-- name: 片山遼 (Ryo Katayama)
-  photo: dummy_member.png
-  info: M2
-  email: 
-  number_educ: 
-  joined: Apr. 2022
-  graduated:
-
 - name: 茅野恵大 (Keita Kayano)
   photo: kayano.jpg
-  info: M1
+  info: M2
   email: 
   number_educ: 4
   joined: Dec. 2022
@@ -58,7 +34,7 @@
 
 - name: 岡田侑也 (Yuya Okada)
   photo: okada.jpg
-  info: M1
+  info: M2
   email: 
   number_educ: 4
   joined: Apr. 2024
@@ -66,7 +42,7 @@
 
 - name: 東桔也 (Kitsuya Azuma)
   photo: azuma.jpg
-  info: M1
+  info: M2
   email: 
   number_educ: 4
   joined: Apr. 2024

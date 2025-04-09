@@ -127,6 +127,7 @@ This list is updated almost every month, but Google scholar one is the latest pe
 </ol>
 
 # Awards obtained by students in our team
+1. IEEE Transactions on Mobile Computing Best Paper Award 2023, 板原壮平, 香田優介, 2024年.「S. Itahara, T. Nishio, Y. Koda, M. Morikura and K. Yamamoto, “Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training With Non-IID Private Data,” in IEEE Transactions on Mobile Computing, vol. 22, no. 1, pp. 191-205, 1 Jan. 2023, doi: 10.1109/TMC.2021.3070013.」
 1. IEICE RISING 優秀ポスター賞, 岡⽥侑也 2024年.
 1. 学生技術交流集会 優秀発表賞, 岡⽥侑也 2024年.
 1. 第39回電気通信普及財団テレコムシステム技術学生賞, 太田翔己 2023年

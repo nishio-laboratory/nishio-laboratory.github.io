@@ -7,6 +7,30 @@
 #  education2:
 #  education3:
 #  education4:
+- name: 小寺奏怜 (Kanare Kodera)
+  photo: kodera.jpg
+  info: Master's degree
+  email: 
+  number_educ: 4
+  joined: Dec. 2021
+  graduated: Mar. 2025
+
+- name: 堀川裕太郎 (Yutaro Horikawa)
+  photo: horikawa.jpg
+  info: Master's degree
+  email: 
+  number_educ: 4
+  joined: Dec. 2021
+  graduated: Mar. 2025
+
+- name: 片山遼 (Ryo Katayama)
+  photo: dummy_member.png
+  info: Master's degree
+  email: 
+  number_educ: 
+  joined: Apr. 2022
+  graduated: Mar. 2025
+
 - name: 依田光仁（Koji Yorita）
   photo: yorita.jpg
   info: Master's degree
@@ -22,7 +46,6 @@
   number_educ: 1
   joined: Apr. 2022
   graduated: Mar. 2024
-
 
 - name: 板原壮平 (Sohei Itahara)
   photo: itahara.jpg

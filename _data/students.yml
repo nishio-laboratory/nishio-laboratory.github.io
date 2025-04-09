@@ -18,7 +18,7 @@
 
 - name: 太田翔己（Shoki Ohta）
   photo: ohta.jpg
-  info: D3
+  info: D2
   email: 
   number_educ: 1
   joined: Dec. 2020
@@ -48,9 +48,17 @@
   joined: Apr. 2024
   graduated:
 
+- name: Eshan Ramesh
+  photo: eshan.jpg
+  info: M1
+  email: 
+  number_educ: 4
+  joined: Sept. 2024
+  graduated:
+
 - name: 上口翔平 (Shohei Kamiguchi)
   photo: dummy_member.png
-  info: B4
+  info: M1
   email: 
   number_educ: 4
   joined: Dec. 2023
@@ -58,16 +66,24 @@
 
 - name: 酒井大地 (Daichi Sakai)
   photo: dummy_member.png
-  info: B4
+  info: M1
   email: 
   number_educ: 4
   joined: Dec. 2023
   graduated:
 
+- name: 馬島拓海 (Takumi Majima)
+  photo: dummy_member.png
+  info: M1
+  email: 
+  number_educ: 4
+  joined: Apr. 2025
+  graduated:
+
 
 - name: 貝沼遥生 (Haruki Kainuma)
   photo: dummy_member.png
-  info: B3
+  info: B4
   email: 
   number_educ: 4
   joined: Dec. 2024
@@ -75,7 +91,7 @@
 
 - name: 橋本結衣 (Yui Hashimoto)
   photo: dummy_member.png
-  info: B3
+  info: B4
   email: 
   number_educ: 4
   joined: Dec. 2024

@@ -1,6 +1,46 @@
 # 論文にはdoi、学会発表はあればdoi、なければプログラム等のurlを記載する
 # 
 #
+- date: 2025年11月11日
+  headline: 2025度3年生向けの研究室見学会を11/11 16:00~, 17:15~の2回開催します。興味ある方はぜひご参加ください。学外の方でも本学の受験を検討されている学生については参加可能です。事前に連絡ください。
+  doi:
+
+- date: 2025年10月28日
+  headline: D3のChenさんがIEEE WF-IoT 2025で発表しました。内容はIoT Journalに掲載されたものです。
+  doi: 10.1109/JIOT.2025.3529499
+
+- date: 2025年10月24日
+  headline: 西尾准教授が第24回ドコモ・モバイル・サイエンス賞を受賞しました。とてもびっくりです。
+  url: https://www.mcfund.or.jp/mobilescience/award/no24.html
+
+- date: 2025年10月某日
+  headline: ずいぶんと更新をさぼってしまいました。すみません。
+  doi:
+
+- date: 2025年10月1日
+  headline: 社会人博士として田尻さんが研究室に加わりました！
+  doi:
+
+- date: 2025年9月吉日
+  headline: IEEE Globecom 2025のSymposium paperにB4の貝沼さん、WorkshopにM2のEshanさんと岡田さんがそれぞれ採択されました。12月上旬に台湾で発表予定です。台湾でお会いしましょう！
+  doi:
+
+- date: 2025年9月吉日
+  headline: ACM Mobicom 2025のDemo sessionにM2のEshanさんが採択されました。11月上旬に香港で発表予定です。香港でお会いしましょう！
+  doi:
+
+- date: 2025年7月30日
+  headline: 西尾准教授がIEICE RISINGおよびSR研究会で依頼講演を行いました。
+  doi:
+
+- date: 2025年7月29日
+  headline: M2の東さん、岡田さん、M1のEshanさん、B4の貝沼さんがMIRUで発表しました。夏の京都は暑いですね。
+  doi:
+
+- date: 2025年5月28日
+  headline: D3のChenさん共著の発表がIEEE ICMLCNに採択され、スペインで発表してきました。
+  doi: 10.1109/ICMLCN64995.2025.11140469
+
 - date: 2025年4月1日
   headline: 研究室に新たなメンバーが加わりました！
   doi:

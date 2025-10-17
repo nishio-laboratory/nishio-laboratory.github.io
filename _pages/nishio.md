@@ -119,39 +119,39 @@ twitter: @_240_
 # Aacdemic society activities
 ## International
 ### Organizing Committee
-IEEE PIMRC 2022 Track co-chair
-Smartcom 2019 TPC co-chairs  
-IEEE ICAIIC TPC Vice chairs 2019, 2020  
-APCC 2015 Local arrangement vice co-chairs  
-IEEE VNC 2015 Poster/Demo Co-Chair  
+- IEEE PIMRC 2022 Track co-chair
+- Smartcom 2019 TPC co-chairs  
+- IEEE ICAIIC TPC Vice chairs 2019, 2020  
+- APCC 2015 Local arrangement vice co-chairs  
+- IEEE VNC 2015 Poster/Demo Co-Chair  
 
 ### Session chairs
-APWCS 2013  
-IEEE VNC Poster session 2015  
-IEEE CCNC 2018, 2019  
-IEEE ICC 2019
-IEEE Globecom 2023
+- APWCS 2013  
+- IEEE VNC Poster session 2015  
+- IEEE CCNC 2018, 2019  
+- IEEE ICC 2019
+- IEEE Globecom 2023
 
 ### Editor
-IEEE Transactions on Machine Learning in Communications and Networking
+- IEEE Transactions on Machine Learning in Communications and Networking
 
-### TPC
-IEEE ICMLCN 2024, 2025
-IEEE ICC 2024, 2025
-IEEE Globecom 2015, 2024
-IEEE CCNC 2017, 2018, 2019, 2025
-IEEE CQR 2016-2024
-IEEE VTC 2022 workshop
-IEEE VTC 2018-Fall, 2020-Spring, 2021-Fall  
-IEEE COMNETSAT 2018  
-IEEE WCNC 2018 workshop on CmMmW5G  
-IEEE WCNC 2017 workshop on mmW5G  
-IEEE CCNC 2019 workshop on IWSS  
-IEEE AINA 2015  
-IEEE ICUFN 2019  
-IEEE ICAIIC 2020  
-IEEE VNC 2015  
-APCC 2017-2018  
+### TPC (多分抜けあり)
+- IEEE ICMLCN 2024-Present
+- IEEE ICC 2024, 2025
+- IEEE Globecom 2015, 2024, 2025
+- IEEE CCNC 2017, 2018, 2019, 2025
+- IEEE CQR 2016-Present
+- IEEE VTC 2022 workshop
+- IEEE VTC 2018-Fall, 2020-Spring, 2021-Fall  
+- IEEE COMNETSAT 2018  
+- IEEE WCNC 2018 workshop on CmMmW5G  
+- IEEE WCNC 2017 workshop on mmW5G  
+- IEEE CCNC 2019 workshop on IWSS  
+- IEEE AINA 2015  
+- IEEE ICUFN 2019  
+- IEEE ICAIIC 2020  
+- IEEE VNC 2015  
+- APCC 2017-2018  
   
 ### Reviewer  
 IEEE Transactions on Mobile Computing  

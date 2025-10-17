@@ -1,9 +1,19 @@
+- authors: "Takayuki Nishio, Cheng Chen, and Mehdi Bennis"
+  title: "A Semantic Inpainting Framework for Distributed Cross-Modal Integrated Sensing and Communication"
+  journal: "Proc. IEEE ICMLCN, May 2025."
+  year: 2025
+  url:
+  doi: 
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "Kanare Kodera and Takayuki Nishio"
   title: "Estimating Deformation of Tubular Object From WiFi CSI Toward Tactile Sensing"
   journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
   url:
-  doi:
+  doi: 10.1109/CCNC54725.2025.10976126
   image: dummy.png
   description:
   highlight: 0
@@ -13,7 +23,7 @@
   journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
   url:
-  doi: 
+  doi: 10.1109/CCNC54725.2025.10975999
   image: dummy.png
   description:
   highlight: 0
@@ -23,7 +33,7 @@
   journal: "Proc. IEEE CCNC, Jan. 2025."
   year: 2024
   url:
-  doi: 
+  doi: 10.1109/CCNC54725.2025.10975920
   image: dummy.png
   description:
   highlight: 0

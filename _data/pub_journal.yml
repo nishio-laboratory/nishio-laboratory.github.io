@@ -1,6 +1,6 @@
 - authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
   title: "Real2Sim2Real for Point Cloud-Based mmWave Link Quality Prediction: An Empirical Study"
-  journal: "IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5270-5275, March 2025"
+  journal: "IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5270-5275, March 2025."
   year: 2025
   url: 
   doi: 10.1109/TVT.2024.3486371
@@ -10,8 +10,8 @@
 
 - authors: "Cheng Chen, Shoki Ohta, Takayuki Nishio, Mehdi Bennis, Jihong Park, and Mohamed Wahib"
   title: "Enabling Visual Scene Recovery from Wi-Fi CSI for Occlusion-Free Surveillance"
-  journal: "IEEE Internet of Things Journal"
-  year: 2024
+  journal: "IEEE Internet of Things Journal, vol. 12, no. 11, pp. 15040-15056, June 2025."
+  year: 2025
   url:
   doi: 10.1109/JIOT.2025.3529499
   image: dummy.png
@@ -20,7 +20,7 @@
 
 - authors: "Shunsuke Sato, Ryoichi Shinkuma, Kensei Hirai, Masataka Nakahara, Norihiro Okui, Ayumu Kubota, Yasuaki Kobayashi, Keizo Sugiyama, Takayuki Nishio"
   title: "Data Acquisition Framework for Micromobility Vehicles Toward Driving Risk Prediction Against Cyberphysical Security Attack"
-  journal: "IEEE Security & Privacy, pp. 2-11, 2024."
+  journal: "IEEE Security & Privacy, vol. 23, no. 2, pp. 61-70, March 2025."
   year: 2024
   url: 
   doi: 10.1109/MSEC.2024.3441731
@@ -28,9 +28,19 @@
   description: 
   highlight: 0
 
+- authors: "M. Iftikar, D. Kwaku Pobi Asiedu, T. Nishio and J. -H. Yun"
+  title: "Deep Reinforcement Learning-Based Overfill Rendering, Offloading, and Subband Allocation for Edge-Assisted VR System"
+  journal: "IEEE Access, vol. 12, pp. 149147-149161, Oct.2024."
+  year: 2024
+  url: 
+  doi: 10.1109/ACCESS.2024.3477497
+  image: dummy.png
+  description: 
+  highlight: 0
+
 - authors: "Hiroki Shimomura, Koji Yamamoto, Takayuki Nishio, Akihito Taya"
   title: "Beamforming Feedback-Based Line-of-Sight Identification Toward Firmware-Agnostic WiFi Sensing"
-  journal: "IEEE Open Journal of Vehicular Technology, vol. 5, pp. 1024-1035, 2024."
+  journal: "IEEE Open Journal of Vehicular Technology, vol. 5, pp. 1024-1035, Aug. 2024."
   year: 2024
   url: 
   doi: 10.1109/OJVT.2024.3440400
@@ -263,7 +273,7 @@
   journal: "IEEE Access, vol. 8, pp. 17986-17998, Feb. 2020."
   year: 2020
   url:
-  doi:
+  doi: 10.1109/ACCESS.2020.2967747
   image: dummy.png
   description:
   highlight: 0
@@ -280,10 +290,10 @@
 
 - authors: "Y. Koda, K. Nakashima, K. Yamamoto, T. Nishio and M. Morikura"
   title: "Handover Management for mmWave Networks With Proactive Performance Prediction Using Camera Images and Deep Reinforcement Learning"
-  journal: "IEEETransactions on Cognitive Communications and Networking, vol. 6, no. 2, pp. 802-816, June 2020."
+  journal: "IEEE Transactions on Cognitive Communications and Networking, vol. 6, no. 2, pp. 802-816, June 2020."
   year: 2020
   url:
-  doi:
+  doi: 10.1109/TCCN.2019.2961655
   image: dummy.png
   description:
   highlight: 0

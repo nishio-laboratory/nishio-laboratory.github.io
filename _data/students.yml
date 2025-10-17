@@ -24,6 +24,14 @@
   joined: Dec. 2020
   graduated: 
 
+- name: 田尻兼悟（Kengo Tajiri）
+  photo: dummy_member.jpg
+  info: D1
+  email: 
+  number_educ: 1
+  joined: Sept. 2025
+  graduated: 
+
 - name: 茅野恵大 (Keita Kayano)
   photo: kayano.jpg
   info: M2
@@ -50,14 +58,14 @@
 
 - name: Eshan Ramesh
   photo: eshan.jpg
-  info: M1
+  info: M2
   email: 
   number_educ: 4
   joined: Sept. 2024
   graduated:
 
 - name: 上口翔平 (Shohei Kamiguchi)
-  photo: dummy_member.png
+  photo: kamiguchi.png
   info: M1
   email: 
   number_educ: 4
@@ -82,7 +90,7 @@
 
 
 - name: 貝沼遥生 (Haruki Kainuma)
-  photo: dummy_member.png
+  photo: kainuma.jpeg
   info: B4
   email: 
   number_educ: 4

@@ -3,6 +3,7 @@
   journal: "IEEE Wireless Communications Letters, Mar. 2024."
   year: 2023
   url:
+  doi: "10.1109/LWC.2024.3373757"
   image: dummy.png
   description:
   highlight: 0
@@ -12,6 +13,7 @@
   journal: "IEICE ComEX, Apr. 2022."
   year: 2022
   url:
+  doi:
   image: dummy.png
   description:
   highlight: 0
@@ -21,6 +23,7 @@
   journal: "IEEE Communications Letters, Mar. 2020."
   year: 2020
   url:
+  doi:
   image: dummy.png
   description:
   highlight: 0
@@ -30,6 +33,7 @@
   journal: "IEICE Communications Express, vol.6, no.5, pp.225-230, May 2017."
   year: 2017
   url:
+  doi:
   image: dummy.png
   description:
   highlight: 0
@@ -39,6 +43,7 @@
   journal: "IEEE Wireless Commun. Lett., May 2017."
   year: 2017
   url:
+  doi:
   image: dummy.png
   description:
   highlight: 0

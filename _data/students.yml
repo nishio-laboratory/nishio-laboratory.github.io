@@ -88,6 +88,21 @@
   joined: Apr. 2025
   graduated:
 
+- name: Kenshiro Ise
+  photo: dummy_member.png
+  info: M1
+  email: 
+  number_educ: 4
+  joined: Nov. 2026
+  graduated:
+
+- name: Masanori Nakajima
+  photo: dummy_member.png
+  info: M1
+  email: 
+  number_educ: 4
+  joined: Nov. 2026
+  graduated:
 
 - name: 貝沼遥生 (Haruki Kainuma)
   photo: kainuma.jpeg
@@ -103,4 +118,20 @@
   email: 
   number_educ: 4
   joined: Dec. 2024
+  graduated:
+
+- name: Haruyuki Miyatake
+  photo: dummy_member.png
+  info: B3
+  email: 
+  number_educ: 4
+  joined: Dec. 2025
+  graduated:
+
+- name: Takahiro Yano
+  photo: dummy_member.png
+  info: B3
+  email: 
+  number_educ: 4
+  joined: Dec. 2025
   graduated:

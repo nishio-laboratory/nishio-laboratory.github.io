@@ -1,3 +1,13 @@
+- authors: "K. Azuma, T. Nishio, Y. Kitagawa, W. Nakano and T. Tanimura"
+  title: "Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation"
+  journal: "IEEE Transactions on Mobile Computing, Early Access, Jan 2026."
+  year: 2025
+  url: 
+  doi: 10.1109/TMC.2026.3652819
+  image: dummy.png
+  description:
+  highlight: 0
+
 - authors: "S. Ohta, T. Nishio, R. Kudo, K. Takahashi and H. Nagata"
   title: "Real2Sim2Real for Point Cloud-Based mmWave Link Quality Prediction: An Empirical Study"
   journal: "IEEE Transactions on Vehicular Technology, vol. 74, no. 3, pp. 5270-5275, March 2025."

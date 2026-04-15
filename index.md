@@ -10,7 +10,7 @@ excerpt: "Nishio Lab at Tokyo Institute of Technology."
 
 Our lab website has been migrated. Please visit the new site below. This site will no longer be updated after April 1, 2026.
 
-https://nishiolab.com/
+<a href="https://nishiolab.com/">https://nishiolab.com/</a>
 
 ===
 

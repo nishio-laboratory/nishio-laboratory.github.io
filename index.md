@@ -3,6 +3,15 @@ title: Nishio Lab
 layout: home
 excerpt: "Nishio Lab at Tokyo Institute of Technology."
 ---
+
+===
+研究室ホームページを移行しました。新しいサイトは以下をご覧ください。当サイトは2026年4月1日以降更新されません。
+Our lab website has been migrated. Please visit the new site below. This site will no longer be updated after April 1, 2026.
+
+https://nishiolab.com/
+
+===
+
 無線ネットワークを中心として、センシング・コンピューティング・ネットワーキングが融合した新たな情報基盤の実現を目指し、コンピュータビジョンを用いた無線通信品質予測・制御、無線ネットワーク上での分散協調的な機械学習など様々な分野横断的研究を行っています。
 
 Nishio lab is a research group in Department of Information and Communications Engineering, School of Engineering, Tokyo Institute of Technology. Our mission is to realize energy- and communication-efficient IoT system with AI. To this end, we are conducting research in the interdisciplinary area of sensing, networking, and computing. 

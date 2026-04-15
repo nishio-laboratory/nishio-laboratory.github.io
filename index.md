@@ -5,7 +5,9 @@ excerpt: "Nishio Lab at Tokyo Institute of Technology."
 ---
 
 ===
+
 研究室ホームページを移行しました。新しいサイトは以下をご覧ください。当サイトは2026年4月1日以降更新されません。
+
 Our lab website has been migrated. Please visit the new site below. This site will no longer be updated after April 1, 2026.
 
 https://nishiolab.com/

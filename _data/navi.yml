@@ -1,11 +1,6 @@
 - name: Home
   link: /
-- name: NLab配属希望の学生へ
-  link: /about
-- name: Publication
-  link: /publications
-- name: Research Project
-  link: /project
-- name: Member
-  link: /member
+- name: 新ホームページへ移動
+  link: https://nishiolab.com/
+
 
